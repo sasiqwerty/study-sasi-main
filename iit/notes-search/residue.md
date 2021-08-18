@@ -1,0 +1,5 @@
+# Residue
+
+In biochemistry and molecular biology, a residue refers to a specific monomer within the polymeric chain of a polysaccharide, protein or nucleic acid. One might say, "This protein consists of 118 amino acid residues" or "The histidine residue is considered to be basic because it contains an imidazole ring." Note that a residue is different from a moiety, which, in the above example would be constituted by the imidazole ring or the imidazole moiety.
+
+The concept that suggested this term is presumably the nature of the condensation reaction by which such classes of monomeric building blocks, such as amino acids or monosaccharides, are strung together to form a polymeric chain, such as a polysaccharide or a peptide; some atoms, typically in the form of a water molecule, are discarded from each building block, leaving only a "residue" of the building block, that ends up in the finished product. A residue might be one amino acid in a polypeptide or one monosaccharide in a starch molecule, for example.
