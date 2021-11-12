@@ -6,4 +6,4 @@
 - talking about what kind of food they like
 - talking about their taste in music
 - talking about their education and their beliefs
--
+- we
