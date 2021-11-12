@@ -1,3 +1,4 @@
+The idea
 A boat stuck in the stormy sea might never reach its destination.
 
 The water flows down a stream, peaceful and quite. Its a sight to see. As more streams merge we get a river and its powerful, a sight to behold. We see a waterfall and all its eddies and currents. The water cuts deeper and shapes the banks and fuels the life around it. All it takes is a log falling in the wrong spot at the origin and we never even see the same river again.
