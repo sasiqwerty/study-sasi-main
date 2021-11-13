@@ -7,7 +7,7 @@ The etymological roots for the word "pharmacovigilance" are: pharmakon (Greek fo
 
 Pharmacology is a branch of medicine, biology and pharmaceutical sciences concerned with drug or medication action,more specifically, it is the study of the interactions that occur between a living organism and chemicals that affect normal or abnormal biochemical function. If substances have medicinal properties, they are considered pharmaceuticals.
 
-a drug can be defined as any artificial, natural, or endogenous (from within the body) molecule which exerts a biochemical or physiological effect on the cell, tissue, organ, or organism (sometimes the word pharmacon is used as a term to encompass these endogenous and exogenous bioactive species).
+A drug can be defined as any artificial, natural, or endogenous (from within the body) molecule which exerts a biochemical or physiological effect on the cell, tissue, organ, or organism (sometimes the word pharmacon is used as a term to encompass these endogenous and exogenous bioactive species).
 
 As such, pharmacovigilance heavily focuses on adverse drug reactions (ADR), which are defined as any response to a drug which is noxious and unintended, including lack of efficacy (the condition that this definition only applies with the doses normally used for the prophylaxis, diagnosis or therapy of disease).
 
