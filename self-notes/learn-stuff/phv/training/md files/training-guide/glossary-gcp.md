@@ -22,7 +22,7 @@ The affirmative decision of the IRB that the clinical trial has been reviewed an
 
 ### Audit
 
-A systematic and independent examination of trial related activities and documents to determine whether the evaluated trial related activities were conducted, and the data were recorded, analyzed and accurately reported according to the protocol, sponsor’s standard operating procedures (SOPs), Good Clinical Practice (GCP), and the applicable regulatory requirement(s).
+A systematic and independent examination of trial related activities and documents to determine whether the evaluated trial related activities were conducted, and the data were recorded, analyzed and accurately reported according to the protocol, sponsor's standard operating procedures (SOPs), Good Clinical Practice (GCP), and the applicable regulatory requirement(s).
 
 ### Audit Certificate
 
@@ -30,7 +30,7 @@ A declaration of confirmation by the auditor that an audit has taken place.
 
 ### Audit Report
 
-A written evaluation by the sponsor’s auditor of the results of the audit.
+A written evaluation by the sponsor's auditor of the results of the audit.
 
 ### Audit Trail
 
@@ -62,7 +62,7 @@ Adherence to all the trial-related requirements, Good Clinical Practice (GCP) re
 
 ### Confidentiality
 
-Prevention of disclosure, to other than authorized individuals, of a sponsor’s proprietary information or of a subject’s identity.
+Prevention of disclosure, to other than authorized individuals, of a sponsor's proprietary information or of a subject's identity.
 
 ### Contract
 
@@ -79,12 +79,12 @@ An investigator assigned the responsibility for the coordination of investigator
 
 ### Contract Research Organization (CRO)
 
-A person or an organization (commercial, academic, or other) contracted by the sponsor to perform one or more of a sponsor’s trial-related duties and functions.
+A person or an organization (commercial, academic, or other) contracted by the sponsor to perform one or more of a sponsor's trial-related duties and functions.
 
 ### Direct Access
 
-Permission to examine, analyze, verify, and reproduce any records and reports that are important to evaluation of a clinical trial. Any party (e.g., domestic and foreign regulatory authorities, sponsor’s monitors and auditors) with direct access should
-take all reasonable precautions within the constraints of the applicable regulatory requirement(s) to maintain the confidentiality of subjects’ identities and sponsor’s proprietary information.
+Permission to examine, analyze, verify, and reproduce any records and reports that are important to evaluation of a clinical trial. Any party (e.g., domestic and foreign regulatory authorities, sponsor's monitors and auditors) with direct access should
+take all reasonable precautions within the constraints of the applicable regulatory requirement(s) to maintain the confidentiality of subjects' identities and sponsor's proprietary information.
 
 ### Documentation
 
@@ -105,7 +105,7 @@ An independent data-monitoring committee that may be established by the sponsor 
 
 ### Impartial Witness
 
-A person, who is independent of the trial, who cannot be unfairly influenced by people involved with the trial, who attends the informed consent process if the subject or the subject’s legally acceptable representative cannot read, and who reads the informed
+A person, who is independent of the trial, who cannot be unfairly influenced by people involved with the trial, who attends the informed consent process if the subject or the subject's legally acceptable representative cannot read, and who reads the informed
 consent form and any other written information supplied to the subject.
 
 ### Independent Ethics Committee (IEC)
@@ -117,12 +117,12 @@ The legal status, composition, function, operations and regulatory requirements 
 
 ### Informed Consent
 
-A process by which a subject voluntarily confirms his or her willingness to participate in a particular trial, after having been informed of all aspects of the trial that are relevant to the subject’s decision to participate. Informed consent is documented by
+A process by which a subject voluntarily confirms his or her willingness to participate in a particular trial, after having been informed of all aspects of the trial that are relevant to the subject's decision to participate. Informed consent is documented by
 means of a written, signed and dated informed consent form.
 
 ### Inspection
 
-The act by a regulatory authority(ies) of conducting an official review of documents, facilities, records, and any other resources that are deemed by the authority(ies) to be related to the clinical trial and that may be located at the site of the trial, at the sponsor’s and or or contract research organization’s (CRO’s) facilities, or at other establishments deemed appropriate by the regulatory authority(ies).
+The act by a regulatory authority(ies) of conducting an official review of documents, facilities, records, and any other resources that are deemed by the authority(ies) to be related to the clinical trial and that may be located at the site of the trial, at the sponsor's and or or contract research organization's (CRO's) facilities, or at other establishments deemed appropriate by the regulatory authority(ies).
 
 ### Institution (medical)
 
@@ -150,13 +150,13 @@ A person responsible for the conduct of the clinical trial at a trial site. If a
 
 An expression meaning “the investigator and or or institution, where required by the applicable regulatory requirements”.
 
-### Investigator’s Brochure
+### Investigator's Brochure
 
-A compilation of the clinical and nonclinical data on the investigational product(s) which is relevant to the study of the investigational product(s) in human subjects (see the Investigator’s Brochure).
+A compilation of the clinical and nonclinical data on the investigational product(s) which is relevant to the study of the investigational product(s) in human subjects (see the Investigator's Brochure).
 
 ### Legally Acceptable Representative
 
-An individual or juridical or other body authorized under applicable law to consent, on behalf of a prospective subject, to the subject’s participation in the clinical trial.
+An individual or juridical or other body authorized under applicable law to consent, on behalf of a prospective subject, to the subject's participation in the clinical trial.
 
 ### Monitoring
 
@@ -164,7 +164,7 @@ The act of overseeing the progress of a clinical trial, and of ensuring that it 
 
 ### Monitoring Report
 
-A written report from the monitor to the sponsor after each site visit and or or other trial-related communication according to the sponsor’s SOPs.
+A written report from the monitor to the sponsor after each site visit and or or other trial-related communication according to the sponsor's SOPs.
 
 ### Multicentre Trial
 
@@ -223,7 +223,7 @@ All information in original records and certified copies of original records of 
 
 ### Source Documents
 
-Original documents, data, and records (e.g., hospital records, clinical and office charts, laboratory notes, memoranda, subjects’ diaries or evaluation checklists, pharmacy dispensing records, recorded data from automated instruments, copies or
+Original documents, data, and records (e.g., hospital records, clinical and office charts, laboratory notes, memoranda, subjects' diaries or evaluation checklists, pharmacy dispensing records, recorded data from automated instruments, copies or
 transcriptions certified after verification as being accurate copies, microfiches, photographic negatives, microfilm or magnetic media, x-rays, subject files, and records kept at the pharmacy, at the laboratories and at medico-technical departments involved in the clinical trial).
 
 ### Sponsor
@@ -248,7 +248,7 @@ An individual who participates in a clinical trial, either as a recipient of the
 
 ### Subject Identification Code
 
-A unique identifier assigned by the investigator to each trial subject to protect the subject’s identity and used in lieu of the subject’s name when the investigator reports adverse events and or or other trial related data.
+A unique identifier assigned by the investigator to each trial subject to protect the subject's identity and used in lieu of the subject's name when the investigator reports adverse events and or or other trial related data.
 
 ### Trial Site
 
@@ -256,7 +256,7 @@ The location(s) where trial-related activities are actually conducted.
 
 ### Unexpected Adverse Drug Reaction
 
-An adverse reaction, the nature or severity of which is not consistent with the applicable product information (e.g., Investigator’s Brochure for an unapproved investigational product or package insert or summary of product characteristics for an approved product) (.
+An adverse reaction, the nature or severity of which is not consistent with the applicable product information (e.g., Investigator's Brochure for an unapproved investigational product or package insert or summary of product characteristics for an approved product) (.
 
 ### Vulnerable Subjects
 
