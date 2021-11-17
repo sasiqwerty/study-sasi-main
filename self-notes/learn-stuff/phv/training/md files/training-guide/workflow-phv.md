@@ -16,7 +16,6 @@ The minimum requirements for a valid case.
 - the medical history
 - concomitant medication
 - action taken like dechallenge,rechallange,intervention.
-- test
 
 ## Follow Up Information
 
