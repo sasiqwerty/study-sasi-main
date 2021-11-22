@@ -1,3 +1,5 @@
+# Workflow
+
 ## A Valid Adverse Event Report
 
 The minimum requirements for a valid case.
