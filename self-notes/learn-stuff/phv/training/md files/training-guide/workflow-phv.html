@@ -35,21 +35,6 @@
 <li>An identifiable reporter</li>
 <li>An adverse event</li>
 </ul>
-<h2 id="desired-information">Desired Information</h2>
-<ul>
-<li>The details of the patient</li>
-<li>Adverse event</li>
-<li>company medication including the information like therapy dates, dose,indication etc</li>
-<li>reporter correspondence details</li>
-<li>the medical history</li>
-<li>concomitant medication</li>
-<li>action taken like dechallenge,rechallange,intervention.</li>
-</ul>
-<h2 id="follow-up-information">Follow Up Information</h2>
-<ul>
-<li>any new information or change in previous information</li>
-<li>provided by the reporter or requested by the local or central IMS</li>
-</ul>
 <h2 id="individual-case-data-flow">Individual Case Data Flow</h2>
 <p>The information is received from the reporters and the case is entered initially into the database. Later the case is cross-checked for duplicates and cleared to enter into the system as a new or a follow up case and registered. The next step in the process is triage where the case is judged based on its seriousness. The data is entered in the next step and the narrative is written and sent over to get reviewed by medical professionals. The case is closed after expert review and cleared to proceed for reporting.</p>
 <h3 id="basic-steps-in-the-case-handling-process">Basic Steps in the Case Handling Process</h3>
@@ -76,7 +61,6 @@
 <ul>
 <li>The reporter suspects that one of the drug is the cause. It is called Suspect Drug.</li>
 <li>The other associated drugs are called Concomitant Drugs. Along with the name of the drugs, dose, frequency, regimen, indication are recorded where ever possible.</li>
-<li></li>
 </ul>
 <h4 id="patient-details">Patient Details</h4>
 <p>Patient's age, country, ethnicity, medical history, etc.</p>
@@ -98,11 +82,13 @@
 <p>Methods of Causality Assessment
 Kramer Scale</p>
 <h3 id="suspect-causal-relation">Suspect Causal Relation</h3>
-<p>Definitely related - Events have no uncertainty in their relationship to test drug administration: meaning that a re-challenge was positive.</p>
-<p>Probable - Event follows a reasonable temporal sequence from drug administration, increases upon discontinuation of the drug
-Possible - Event may or may not follow a reasonable temporal sequence from drug administration but seems to be the type of reaction that cannot be dismissed as unlikely.
-Unlikely - No reasonable temporal association between the study drug and the suspected event
-Definitely unrelated -Events which occur prior to test drug administration or events which cannot be even remotely related to study participation</p>
+<ul>
+<li>Definitely related - Events have no uncertainty in their relationship to test drug administration: meaning that a re-challenge was positive.</li>
+<li>Probable - Event follows a reasonable temporal sequence from drug administration, increases upon discontinuation of the drug</li>
+<li>Possible - Event may or may not follow a reasonable temporal sequence from drug administration but seems to be the type of reaction that cannot be dismissed as unlikely.</li>
+<li>Unlikely - No reasonable temporal association between the study drug and the suspected event</li>
+<li>Definitely unrelated -Events which occur prior to test drug administration or events which cannot be even remotely related to study participation</li>
+</ul>
 <h3 id="causality">Causality</h3>
 <p>To determine likelihood of a causal relationship between drug &amp; adverse events:</p>
 <ul>
@@ -264,23 +250,38 @@ Definitely unrelated -Events which occur prior to test drug administration or ev
 </ul>
 <h3 id="case-completion">Case Completion</h3>
 <ul>
+<li>Case considered ready for completion when it has gone through triage, processing, review and approval</li>
+</ul>
+<p>Case completion process includes:</p>
+<ul>
+<li>Any updates to the case as required by the review cycle</li>
+<li>incorporation of additional information requests into standard follow-up requests</li>
+<li>generation of final report &amp; distribution of the final report to appropriate internal &amp; external parties, including regulatory submission</li>
+<li>Archiving the report and accompanying source documents (both paper &amp; electronic documents)</li>
+</ul>
+<h3 id="follow-up-information">Follow up Information</h3>
+<p>Recommendation to prioritize case reports by importance:</p>
+<ul>
 <li>
-<p>Case considered ready for completion when it has gone through triage, processing, review and approval</p>
+<p>Serious and unexpected</p>
 </li>
 <li>
-<p>Case completion process includes: - any updates to the case as required by the review cycle - incorporation of additional information requests into standard follow-up requests - generation of final report &amp; distribution of the final report to appropriate internal &amp; external parties, including regulatory submission - Archiving the report and accompanying source documents (both paper &amp; electronic documents)*
-Follow up Information: Recommendation to prioritize case reports by importance: Serious and unexpected Serious and expected Non-Serious and unexpected Cases of special interest (ADRs under surveillance; non-serious ADRs which may develop into serious ADRs (mild blood alterations indicating dyscrasias; liver enzyme fluctuations etc..)
-Follow up can be obtained by: Telephone; site visit; written request Written confirmation should be obtained wherever possible for the data supplied
-Follow up Information:</p>
+<p>Serious and expected</p>
+</li>
+<li>
+<p>Non-Serious and unexpected</p>
+</li>
+<li>
+<p>Cases of special interest (ADRs under surveillance; non-serious ADRs which may develop into serious ADRs)</p>
+</li>
+<li>
+<p>Follow up can be obtained by: Telephone; site visit; written request Written confirmation should be obtained wherever possible for the data supplied</p>
 </li>
 <li>
 <p>Judgement should be exercised for the extent of follow up and should be placed</p>
 </li>
 <li>
-<p>alongside the seriousness of the reported reaction and the known outcome</p>
-</li>
-<li>
-<p>(condition stabilized; resolved)</p>
+<p>alongside the seriousness of the reported reaction and the known outcome (condition stabilized; resolved)</p>
 </li>
 <li>
 <p>It is recommended that MAHs should collaborate together if there is more than</p>
@@ -292,33 +293,15 @@ Follow up Information:</p>
 <p>ICH E2D has a list of key data elements which should be included wherever</p>
 </li>
 <li>
-<p>possible in expedited reports
-Follow up related to pregnancy:</p>
+<p>possible in expedited reports</p>
 </li>
-<li>
-<p>Any pregnancy outcome where the reporter or Company decides may be related</p>
-</li>
-<li>
-<p>to the Company product, this should be reported as an expedited report under 15</p>
-</li>
-<li>
-<p>calendar day rules</p>
-</li>
-<li>
-<p>All pregnancy cases should be followed to term</p>
-</li>
-<li>
-<p>If the Company product has long half life (or metabolites) even though the</p>
-</li>
-<li>
-<p>product was stopped before conception there is a possibility that drug/metabolite</p>
-</li>
-<li>
-<p>exposure could occur and recommendations in the label and for Company</p>
-</li>
-<li>
-<p>monitoring should occur</p>
-</li>
+</ul>
+<h4 id="follow-up-related-to-pregnancy">Follow up related to pregnancy:</h4>
+<ul>
+<li>Any pregnancy outcome where the reporter or Company decides may be related to the Company product, this should be reported as an expedited report under 15 calendar day rules</li>
+<li>All pregnancy cases should be followed to term</li>
+<li>If the Company product has long half life (or metabolites) even though the product was stopped before conception there is a possibility that drug/metabolite exposure could occur and recommendations in the label and for Company</li>
+<li>monitoring should occur</li>
 </ul>
 
     </body>

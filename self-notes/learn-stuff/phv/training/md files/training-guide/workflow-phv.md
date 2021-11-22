@@ -7,21 +7,6 @@ The minimum requirements for a valid case.
 - An identifiable reporter
 - An adverse event
 
-## Desired Information
-
-- The details of the patient
-- Adverse event
-- company medication including the information like therapy dates, dose,indication etc
-- reporter correspondence details
-- the medical history
-- concomitant medication
-- action taken like dechallenge,rechallange,intervention.
-
-## Follow Up Information
-
-- any new information or change in previous information
-- provided by the reporter or requested by the local or central IMS
-
 ## Individual Case Data Flow
 
 The information is received from the reporters and the case is entered initially into the database. Later the case is cross-checked for duplicates and cleared to enter into the system as a new or a follow up case and registered. The next step in the process is triage where the case is judged based on its seriousness. The data is entered in the next step and the narrative is written and sent over to get reviewed by medical professionals. The case is closed after expert review and cleared to proceed for reporting.
@@ -52,7 +37,6 @@ The information is received from the reporters and the case is entered initially
 
 - The reporter suspects that one of the drug is the cause. It is called Suspect Drug.
 - The other associated drugs are called Concomitant Drugs. Along with the name of the drugs, dose, frequency, regimen, indication are recorded where ever possible.
--
 
 #### Patient Details
 
@@ -80,12 +64,11 @@ Kramer Scale
 
 ### Suspect Causal Relation
 
-Definitely related - Events have no uncertainty in their relationship to test drug administration: meaning that a re-challenge was positive.
-
-Probable - Event follows a reasonable temporal sequence from drug administration, increases upon discontinuation of the drug
-Possible - Event may or may not follow a reasonable temporal sequence from drug administration but seems to be the type of reaction that cannot be dismissed as unlikely.
-Unlikely - No reasonable temporal association between the study drug and the suspected event
-Definitely unrelated -Events which occur prior to test drug administration or events which cannot be even remotely related to study participation
+- Definitely related - Events have no uncertainty in their relationship to test drug administration: meaning that a re-challenge was positive.
+- Probable - Event follows a reasonable temporal sequence from drug administration, increases upon discontinuation of the drug
+- Possible - Event may or may not follow a reasonable temporal sequence from drug administration but seems to be the type of reaction that cannot be dismissed as unlikely.
+- Unlikely - No reasonable temporal association between the study drug and the suspected event
+- Definitely unrelated -Events which occur prior to test drug administration or events which cannot be even remotely related to study participation
 
 ### Causality
 
@@ -253,23 +236,34 @@ Focus of Case Review:
 
 - Case considered ready for completion when it has gone through triage, processing, review and approval
 
-- Case completion process includes: - any updates to the case as required by the review cycle - incorporation of additional information requests into standard follow-up requests - generation of final report & distribution of the final report to appropriate internal & external parties, including regulatory submission - Archiving the report and accompanying source documents (both paper & electronic documents)\*
-  Follow up Information: Recommendation to prioritize case reports by importance: Serious and unexpected Serious and expected Non-Serious and unexpected Cases of special interest (ADRs under surveillance; non-serious ADRs which may develop into serious ADRs (mild blood alterations indicating dyscrasias; liver enzyme fluctuations etc..)
-  Follow up can be obtained by: Telephone; site visit; written request Written confirmation should be obtained wherever possible for the data supplied
-  Follow up Information:
+Case completion process includes:
+
+- Any updates to the case as required by the review cycle
+- incorporation of additional information requests into standard follow-up requests
+- generation of final report & distribution of the final report to appropriate internal & external parties, including regulatory submission
+- Archiving the report and accompanying source documents (both paper & electronic documents)
+
+### Follow up Information
+
+Recommendation to prioritize case reports by importance:
+
+- Serious and unexpected
+- Serious and expected
+- Non-Serious and unexpected
+- Cases of special interest (ADRs under surveillance; non-serious ADRs which may develop into serious ADRs)
+
+- Follow up can be obtained by: Telephone; site visit; written request Written confirmation should be obtained wherever possible for the data supplied
+
 - Judgement should be exercised for the extent of follow up and should be placed
-- alongside the seriousness of the reported reaction and the known outcome
-- (condition stabilized; resolved)
+- alongside the seriousness of the reported reaction and the known outcome (condition stabilized; resolved)
 - It is recommended that MAHs should collaborate together if there is more than
 - one MAHs drug suspected as a causal agent (interactions)
 - ICH E2D has a list of key data elements which should be included wherever
 - possible in expedited reports
-  Follow up related to pregnancy:
-- Any pregnancy outcome where the reporter or Company decides may be related
-- to the Company product, this should be reported as an expedited report under 15
-- calendar day rules
+
+#### Follow up related to pregnancy:
+
+- Any pregnancy outcome where the reporter or Company decides may be related to the Company product, this should be reported as an expedited report under 15 calendar day rules
 - All pregnancy cases should be followed to term
-- If the Company product has long half life (or metabolites) even though the
-- product was stopped before conception there is a possibility that drug/metabolite
-- exposure could occur and recommendations in the label and for Company
+- If the Company product has long half life (or metabolites) even though the product was stopped before conception there is a possibility that drug/metabolite exposure could occur and recommendations in the label and for Company
 - monitoring should occur
