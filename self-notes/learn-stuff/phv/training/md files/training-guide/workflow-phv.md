@@ -30,7 +30,8 @@ The information is received from the reporters and the case is entered initially
 
 ### AE Case Reception:
 
--AEs received from variety of sources via wide range of methods (Telephone calls, Fax, Mail, Electronic Media). The following information is captured:
+AEs received from variety of sources via wide range of methods (Telephone calls, Fax, Mail, Electronic Media).
+The following information is captured.
 
 #### Case details
 
@@ -71,11 +72,11 @@ Kramer Scale
 
 ### Suspect Causal Relation
 
-- Definitely related - Events have no uncertainty in their relationship to test drug administration: meaning that a re-challenge was positive.
-- Probable - Event follows a reasonable temporal sequence from drug administration, increases upon discontinuation of the drug
-- Possible - Event may or may not follow a reasonable temporal sequence from drug administration but seems to be the type of reaction that cannot be dismissed as unlikely.
-- Unlikely - No reasonable temporal association between the study drug and the suspected event
-- Definitely unrelated -Events which occur prior to test drug administration or events which cannot be even remotely related to study participation
+- Definitely related: Events have no uncertainty in their relationship to test drug administration: meaning that a re-challenge was positive.
+- Probable: Event follows a reasonable temporal sequence from drug administration, increases upon discontinuation of the drug
+- Possible: Event may or may not follow a reasonable temporal sequence from drug administration but seems to be the type of reaction that cannot be dismissed as unlikely.
+- Unlikely: No reasonable temporal association between the study drug and the suspected event
+- Definitely unrelated: Events which occur prior to test drug administration or events which cannot be even remotely related to study participation
 
 ### Causality
 
@@ -163,7 +164,8 @@ Purpose
 
 Coding for drugs
 
-Both the suspect drug and concomitant medication have to be coded. The principle is again to be talking the same language across countries, companies and regulatory bodies. Most common dictionary is the WHO Drug Dictionary enhanced. This is provided as a product by the Upsala Monitoring centre of the WHO. Entries are updated 4 times a year. The majority of entries refer to prescription-only products, but some over-the-counter (OTC) preparations are included.
+Both the suspect drug and concomitant medication have to be coded. The principle is again to be talking the same language across countries, companies and regulatory bodies. Most common dictionary is the WHO Drug Dictionary enhanced.
+This is provided as a product by the Upsala Monitoring centre of the WHO. Entries are updated 4 times a year. The majority of entries refer to prescription-only products, but some over-the-counter (OTC) preparations are included.
 
 The dictionary also covers biotech and blood products, diagnostic substances and contrast media. For chemical and therapeutic groupings the WHO drug record number system and ATC classifications are considered.
 
@@ -215,7 +217,7 @@ Focus of Case Review:
 #### Key Elements of a Narrative:
 
 - This is a spontaneous non serious report.
-- A nurse reported that a 29 year old male consumer experienced stomach ache on 14Jun2008. while on therapy with oral aspirin
+- A nurse reported that a 29 year old male consumer experienced stomach ache on 14 June 2008,while on therapy with oral aspirin.
 - The patient stated that he experienced burning type of stomach ache. The patient could not eat due to the pain in the stomach. The patient also could not sleep until early morning due to the stomach pain.
 - He was taking aspirin 75mg two times a day orally for the treatment of low back pain from an unknown date.
 - Medical history included high blood pressure and ulcerative colitis from an unknown date.
