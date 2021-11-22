@@ -1,5 +1,10 @@
 # Workflow
 
+The Adverse event is received and the document is indexed, the source documents filed. The case is checked for duplicates and assigned a priority level, other patient data is entered into the the system and preliminary quality checks are conducted.
+The event is assessed and a company narrative is prepared for review and the case is assessed from a medical perspective. The case is reviewed for reportability and processed. If follow up is required the necessary protocols are followed and the case is updated accordingly.
+A Risk/Benefit analysis is conducted based on the data, and the regulatory agencies and the analysis reports are prepared.
+The report is forwarded to the regulatory agencies and the report is tracked thereafter.
+
 ## A Valid Adverse Event Report
 
 The minimum requirements for a valid case.
