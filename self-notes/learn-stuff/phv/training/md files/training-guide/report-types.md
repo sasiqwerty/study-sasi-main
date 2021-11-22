@@ -18,7 +18,7 @@ The forms are one or two pages in length and include the expected information re
 
 ## Aggregate reporting
 
-There are multiple different safety reports that pharmaceutical companies and other sponsors must submit to health authorities. This chapter reviews the key reports that are required now by most health authorities.
+There are multiple different safety reports that pharmaceutical companies and other sponsors must submit to health authorities.
 
 Aggregate Reporting is the process that reviews the cumulative safety information from a wide range of sources, on a periodic basis and submit the findings to regulators worldwide.
 Aggregate report examines and summarize all existing safety experience with a medicinal product. Report includes benefit risk assessment of SAES and ADRs, pregnancy reports, overdose and Lack of Efficacy reports.
@@ -86,8 +86,15 @@ emerging information on the risks of the medicinal product and on its benefit in
 - Examining whether the information obtained by the MAH during the reporting interval is in accord with previous knowledge of the medicinal product's benefit and risk profile; and
 - Where important new safety information has emerged, conducting an integrated benefit-risk evaluation for approved indications.
 
-The MAH should continuously evaluate whether any revision of the reference product information/RSI is needed whenever new safety information is obtained throughout the reporting interval. Significant changes to the reference product information/RSI made during the interval should be described in Section 4 of the PBRER ("Changes to Reference Safety Information") and include: ► Changes to contraindications, warnings/precautions sections of the RSI; ► Addition of Adverse Drug Reaction(s) (ADR) and interactions; ► Addition of important new information on use in overdose; and ► Removal of an indication or other restrictions for safety or lack of efficacy reasons.
+The MAH should continuously evaluate whether any revision of the reference product information/RSI is needed whenever new safety information is obtained throughout the reporting interval. Significant changes to the reference product information/RSI made during the interval should be described in Section 4 of the PBRER ("Changes to Reference Safety Information") and include:
+
+- Changes to contraindications, warnings/precautions sections of the RSI;
+- Addition of Adverse Drug Reaction(s) (ADR) and interactions;
+- Addition of important new information on use in overdose; and
+- Removal of an indication or other restrictions for safety or lack of efficacy reasons.
 
 ##### Timelines for PBRER:
 
-Ad hoc ("for cause') PBRERs Ad hoc PBRERs are reports outside the routine reporting requirements, and may be requested by some regulatory authorities. Where an ad hoc report is requested and a PBRER has not been prepared for a number of years, It is likely that a completely new report will need to be prepared by the MAR. Time Interval Between Data Lock Point and the Submission As a result of the expanded scope of the PBRER, the time interval between the DLP and submission of PBRERs should be as follows: • PBRERs covering intervals of 6 or 12 months: within 70 calendar days; o PBRERs covering intervals in excess of 12 months: within 90 calendar days; O ad hoc PBRERs, 90 calendar days, unless otherwise specified M the ad hoc request. The day of DLP is day 0 of the 70- or 90-calendar day interval between the DLP and report submission. Where national or regional requirements differ from the above, the MAH should discuss the timeline for submission with the relevant regulatory authority
+Ad hoc ("for cause') PBRERs
+
+Ad hoc PBRERs are reports outside the routine reporting requirements, and may be requested by some regulatory authorities. Where an ad hoc report is requested and a PBRER has not been prepared for a number of years, It is likely that a completely new report will need to be prepared by the MAR. Time Interval Between Data Lock Point and the Submission As a result of the expanded scope of the PBRER, the time interval between the DLP and submission of PBRERs should be as follows: • PBRERs covering intervals of 6 or 12 months: within 70 calendar days; o PBRERs covering intervals in excess of 12 months: within 90 calendar days; O ad hoc PBRERs, 90 calendar days, unless otherwise specified M the ad hoc request. The day of DLP is day 0 of the 70- or 90-calendar day interval between the DLP and report submission. Where national or regional requirements differ from the above, the MAH should discuss the timeline for submission with the relevant regulatory authority
