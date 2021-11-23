@@ -83,7 +83,7 @@ List applicable forms that are required to be completed in the SOP. Attach any d
 
 ### History of Change
 
-A separate document should sufficiently detail changes made to an SOP, what parts were affected and when the changes become effective. Follow a uniform format for tracking SOP changes; indicate who made the revision, date of revision and the new version number. Properly archive an outgoing version and - all exisiting copies - to avoid unnecessary confusion.
+A separate document should sufficiently detail changes made to an SOP, what parts were affected and when the changes become effective. Follow a uniform format for tracking SOP changes; indicate who made the revision, date of revision and the new version number. Properly archive an outgoing version and - all existing copies - to avoid unnecessary confusion.
 
 ### Content
 

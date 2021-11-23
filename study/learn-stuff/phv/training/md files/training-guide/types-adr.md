@@ -15,6 +15,14 @@ Timing, the pattern of illness, the results of investigations, and rechallenge c
 
 ## Types of Adverse Reactions
 
+### Classification of AE based on Frequency
+
+- Very Common : more than 10 %
+- Common (frequent) : less than 10% and more than 1%
+- Uncommon ( infrequent) : less than 1% and more than 0.1% (or 1 in a 1000)
+- Rare : less than 0.1% and more than 0.01% (or 1 in 10,000)
+- Very Rare : less than 0.01% ( or 1 in 10,000)
+
 ### Based on Avoidability
 
 - Definitely avoidable : The ADR was due to a drug treatment procedure inconsistent with present day knowledge of good medical practice.
