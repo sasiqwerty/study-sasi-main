@@ -87,7 +87,11 @@ A separate document should sufficiently detail changes made to an SOP, what part
 
 ### Content
 
-Check the SOP to make sure it is clear, correct, concise, complete, and comprehensive. Use language and detail appropriate to the staff performing the task. Use short sentences to express a single thought wherever possible. Use techniques that condense information, e.g., tables, matrices, bulleted lists, checklists, and diagrams. Write the text in the third person, present tense, active voice. State in the procedure what is done, not what must, shall, or may be done. Avoid references to gender ("they, their" rather than "he, she"). Express the main idea early in each sentence. Define job titles or unusual terms the first time they appear, followed by the abbreviation in parentheses. The abbreviated form is used in the SOP. Avoid the use of "etc." If the list is limited, write it out in full. If a list is extensive and inappropriate to write out in full, write the term "for example (e.g.)" and give a relevant list. Write the numbers 1 through 9 in words within the text. Write the numbers 10 and greater in the numerical form.
+Check the SOP to make sure it is clear, correct, concise, complete, and comprehensive. Use language and detail appropriate to the staff performing the task. Use short sentences to express a single thought wherever possible. Use techniques that condense information, e.g., tables, matrices, bulleted lists, checklists, and diagrams.
+
+Write the text in the third person, present tense, active voice. State in the procedure what is done, not what must, shall, or may be done. Avoid references to gender ("they, their" rather than "he, she"). Express the main idea early in each sentence.
+
+Define job titles or unusual terms the first time they appear, followed by the abbreviation in parentheses. The abbreviated form is used in the SOP. Avoid the use of "etc." If the list is limited, write it out in full. If a list is extensive and inappropriate to write out in full, write the term "for example (e.g.)" and give a relevant list. Write the numbers 1 through 9 in words within the text. Write the numbers 10 and greater in the numerical form.
 
 ### Style
 

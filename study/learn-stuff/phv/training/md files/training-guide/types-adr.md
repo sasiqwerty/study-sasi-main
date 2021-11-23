@@ -15,37 +15,52 @@ Timing, the pattern of illness, the results of investigations, and rechallenge c
 
 ## Types of Adverse Reactions
 
-### A: dose-related (Augmented)
+### Based on Avoidability
+
+- Definitely avoidable : The ADR was due to a drug treatment procedure inconsistent with present day knowledge of good medical practice.
+- Possibly avoidable : The ADR could have been avoided by an effort exceeding the obligatory demands of present day knowledge of good medical practice
+- Unavoidable : The ADR could not have been avoided by any reasonable means.
+
+### Classification of Adverse Events based on its severity
+
+- Mild: No changes in the therapy are needed
+- Moderate: Change of therapy is desired but the events are not life – threatening or causing disability
+- Serious : is either life-threatening, fatal, Cause persistent disability, cause of prolong hospital admission
+- Lethal : An ADR directly or indirectly contributes to a patients death
+
+### ABCDEF Classification
+
+#### A: dose-related (Augmented)
 
 - Common
 - Related to a pharmacological action of the drug
 - Predictable
 - Low mortality
 
-### B: Non-dose-related (Bizarre)
+#### B: Non-dose-related (Bizarre)
 
 - Uncommon
 - Not related to a pharmacological action of the drug
 - Unpredictable
 - High mortality
 
-### C: Dose-related and time-related (Chronic)
+#### C: Dose-related and time-related (Chronic)
 
 - Uncommon
 - Related to the cumulative dose
 
-### D: Time-related (Delayed)
+#### D: Time-related (Delayed)
 
 - Uncommon
 - Usually dose-related
 - Occurs or becomes apparent some time after the use of the drug
 
-### E: Withdrawal (End of use)
+#### E: Withdrawal (End of use)
 
 - Uncommon
 - Occurs soon after withdrawal of the drug
 
-### F: Unexpected failure of therapy (Failure)
+#### F: Unexpected failure of therapy (Failure)
 
 - Common
 - Dose-related
