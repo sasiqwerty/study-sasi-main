@@ -1,5 +1,21 @@
 # INFORMED CONSENT
 
+- [INFORMED CONSENT](#informed-consent)
+  - [Goals of the informed consent process](#goals-of-the-informed-consent-process)
+    - [PART I](#part-i)
+    - [PART II](#part-ii)
+      - [Ist case: if the subject is Literate](#ist-case-if-the-subject-is-literate)
+      - [II case: If the subject is illiterate](#ii-case-if-the-subject-is-illiterate)
+      - [III case: If the subject is a child](#iii-case-if-the-subject-is-a-child)
+  - [Issues of Concern](#issues-of-concern)
+    - [Adequacy of Informed Consent](#adequacy-of-informed-consent)
+    - [Exceptions to Informed Consent](#exceptions-to-informed-consent)
+    - [Children and Informed Consent](#children-and-informed-consent)
+  - [Clinical Significance](#clinical-significance)
+    - [Clinical Significance in Human Clinical Studies](#clinical-significance-in-human-clinical-studies)
+    - [Shared Decision Making](#shared-decision-making)
+  - [Enhancing Healthcare Team Outcomes](#enhancing-healthcare-team-outcomes)
+
 Informed consent is the process in which a health care provider educates a patient about the risks, benefits, and alternatives of a given procedure or intervention. The patient must be competent to make a voluntary decision about whether to undergo the procedure or intervention. Informed consent is both an ethical and legal obligation of medical practitioners in the US and originates from the patient's right to direct what happens to their body. Implicit in providing informed consent is an assessment of the patient's understanding, rendering an actual recommendation, and documentation of the process. The Joint Commission requires documentation of all the elements of informed consent "in a form, progress notes or elsewhere in the record."
 
 - Informed consent is a process by which a participant voluntarily confirms his willingness to participate in the clinical trial

@@ -1,5 +1,24 @@
 # Regulatory Authorities
 
+- [Regulatory Authorities](#regulatory-authorities)
+  - [Definition](#definition)
+  - [Different Countries and their Regulatory Authorities](#different-countries-and-their-regulatory-authorities)
+    - [United States - FDA Regulations - U.S. Food and Drug Administration](#united-states---fda-regulations---us-food-and-drug-administration)
+    - [Canada - TPD Regulations](#canada---tpd-regulations)
+    - [European - Union EMA Regulations](#european---union-ema-regulations)
+      - [The Role of European Commission](#the-role-of-european-commission)
+      - [The role of EMA](#the-role-of-ema)
+      - [EMA’s scientific committees](#emas-scientific-committees)
+      - [National Competent Authorities](#national-competent-authorities)
+      - [Guidelines and scientific advice](#guidelines-and-scientific-advice)
+      - [Safety monitoring of medicines](#safety-monitoring-of-medicines)
+      - [Clinical trials](#clinical-trials)
+      - [International cooperation](#international-cooperation)
+    - [India - Ministry of Health](#india---ministry-of-health)
+      - [Drugs Controller General of India (DCGI)](#drugs-controller-general-of-india-dcgi)
+      - [Central Drugs Standard Control Organization has 8 divisions:](#central-drugs-standard-control-organization-has-8-divisions)
+    - [Other Authorities](#other-authorities)
+
 ## Definition
 
 The International Council on Harmonisation (ICH) defines an institutional review board (IRB) as a group formally designated to protect the rights, safety and well-being of humans involved in a clinical trial by reviewing all aspects of the trial and approving its startup. IRBs can also be called independent ethics committees (IECs).

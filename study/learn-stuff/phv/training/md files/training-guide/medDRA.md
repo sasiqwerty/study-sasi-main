@@ -1,6 +1,13 @@
 # MedDRA
 
-From Wikipedia, the free encyclopedia
+- [MedDRA](#meddra)
+  - [MedDRA Vision](#meddra-vision)
+  - [Organization of the dictionary](#organization-of-the-dictionary)
+  - [MedDRA hierarchy](#meddra-hierarchy)
+    - [According to MedDRA 23.0 (March 2020):](#according-to-meddra-230-march-2020)
+  - [Maintenance of MedDRA](#maintenance-of-meddra)
+    - [Four types of subscriptions are available from the MSSO:](#four-types-of-subscriptions-are-available-from-the-msso)
+    From Wikipedia, the free encyclopedia
 
 A subscription-based product of the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH), MedDRA or Medical Dictionary for Regulatory Activities is a clinically validated international medical terminology dictionary-thesaurus used by regulatory authorities and the biopharmaceutical industry during the regulatory process, from pre-marketing (clinical research phase 0 to phase 3) to post-marketing activities (pharmacovigilance or clinical research phase 4), and for safety information data entry, retrieval, evaluation, and presentation. Also, it is the adverse event classification dictionary.
 
