@@ -155,15 +155,6 @@ If the patient cannot manage without a medicine that has caused an adverse react
 
 Outside of formal surveillance systems, all health-care professionals have a responsibility to inform their colleagues about clinically important adverse drug reactions that they detect, even if a well-recognised or causal link is uncertain. Information on what has happened and how the diagnosis has been made should be forwarded to a national centre with responsibility for giving general information about drugs and for taking regulatory action. National centres send this information to the WHO worldwide database. This global information is analysed by the WHO Collaborating Centre for International Drug Monitoring (the Uppsala Monitoring Centre), now with artificial intelligence in the form of a Bayesian Confidence Propagation Neural Network, which allows the analysis of all the variables in a report against the background information contained in the WHO database of over 2 million reports. This work supports the review of information in all member national centres around the world (currently 59) and an international expert review panel.
 
-- Anecdotal reporting (eg, in journals) is simple; cheap and relies on individual vigilance and astuteness and might only detect relatively common effects.
-- Voluntary organized reporting (doctors, pharmacists,pharmaceutical companies) is simple but there is a chance of under-reporting and reporting bias by the “bandwagon” effect.
-- Intensive event monitoring is easily organised but the selected population is studied for a short time.
-- Cohort studies can be prospective and good at detecting effects but very large numbers required and tend to be very expensive.
-- Case-control studies are excellent for validation and assessment but will not detect new effects and are relatively expensive.
-- Case-cohort studies are good for studying rare effects with high power but would involve large numbers,wont detect new effects and complex calculations adding to the already expensive process.
-- Population Statistics provide a common ground to study large numbers but are difficult to coordinate and the output might be poor and too coarse.
-- Meta-analysis uses already obtained data as its hard to obtain unpublished data and must take into account for the heterogeneity of different studies, it has its own disadvantages.
-
 ## Future developments
 
 The work of the WHO monitoring programme in Uppsala is described in detail elsewhere. The programme also supports the European Pharmacovigilance Research Group, which has allowed regulators and drug-safety specialists from a variety of European countries to come together to plan coordinated drug-safety exercises. Initiatives like these may pave the way for much more logical development and investigation of drug safety signals worldwide. Among the developments planned for the WHO programme are:
