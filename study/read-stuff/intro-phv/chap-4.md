@@ -25,7 +25,9 @@
 ## Overview – A Risk Management Process
 
 As indicated in Chapter 1, pharmacovigilance is essentially a risk management process for medicines. The process starts with identification of a possible hazard, which is then evaluated and investigated and, if necessary, some action is then taken with a view to minimising risks. Implementation requires tools for communicating with prescribers and users and the final step should be an assessment of the effectiveness of this process. The whole process of risk management is iterative because new evidence may emerge, or the measures taken may turn out to be insufficient. Rarely can a drug safety issue be considered completely and permanently resolved.
+
 The start of the process is usually a ‘signal’ (something that needs to be looked at further), which may not turn out to be a true hazard.
+
 Before that can happen, there is a need to identify the signal.
 
 ## Signal Detection
@@ -74,10 +76,13 @@ Another useful way of looking at the data is to plot the PRR over time (Figure 4
 The PRR is just one of several measures of disproportionality that have been used. A reporting odds ratio (ROR) can be calculated from the same two‐by‐two table and has been mostly used in the Netherlands. The WHO Uppsala Monitoring Centre (UMC) uses the information component (IC) and the US Food and Drugs Administration (FDA) the Multi‐Item Gamma Poisson Shrinker (MGPS), both of which are more complex measures based on Bayesian statistics. These measures tend to produce less extreme values than PRRs when the number of cases is very small. However, when the sensitivity, specificity and predictive power of these measures were compared using Dutch data in 2002, no important differences were found provided at least three cases had been reported. In addition to PRRs, the UK regulatory authority now uses the empirical Bayes geometric mean (EBGM).
 
 A number of points about these methods are worth emphasising.
+
 First, although the numbers are calculated in a similar way to relative risks, they do not represent a meaningful calculation of risk. While it is true that the greater the degree of disproportionality, the more reason there is to look further, the only real utility of the numbers is to decide whether there are more cases than might reasonably have been expected.
+
 Indicators of disproportionality are measures of association and even quite extreme results may not be causal. The next step is detailed clinical review of the relevant individual case reports and to assess any other relevant information which may be available. Many pharmacovigilance experts do not regard mathematical disproportionality alone as sufficient to raise a ‘signal’. Thus, use of the terms ‘statistical signal’ and ‘signal of disproportionate reporting’ has emerged.
-Aside from such semantic considerations, the underlying nature of the data and various potential biases inherent in spontaneous ADR
-reporting must not be forgotten. A specific problem arising from proportionate methods is that large effects may swamp and therefore mask smaller ones. For example, it is fairly obvious that PRRs calculated for all the other suspected reactions reported with rifabutin (the example given earlier) are going to be less than 1 but it is quite possible that some of these reactions would also be worth looking into further.
+
+Aside from such semantic considerations, the underlying nature of the data and various potential biases inherent in spontaneous ADR reporting must not be forgotten. A specific problem arising from proportionate methods is that large effects may swamp and therefore mask smaller ones. For example, it is fairly obvious that PRRs calculated for all the other suspected reactions reported with rifabutin (the example given earlier) are going to be less than 1 but it is quite possible that some of these reactions would also be worth looking into further.
+
 The data mining approach to signal detection has been questioned by some practitioners who believe that relying on clinical experience alone is preferable and that there are too many limitations to the disproportionality methods. It is generally agreed that detailed assessment of individual case reports (preferably by those with clinical experience) should be a key component of signal identification, but in databases where there are large numbers of ADRs, data mining may be seen as a useful first step to raise possible issues to examine further, or to add supporting evidence when assessing and investigating individual case reports. Hence, data mining should not be seen as a replacement for clinical assessment of reports, but rather an aid to it.
 
 ## Evaluation and Investigation
@@ -241,8 +246,8 @@ Communications intended for patients should be written in plain language and rev
 It is particularly important in any communication about drug safety to ensure that essential information is clearly conveyed and not obscured by other less important information. The key facts and advice should be placed in a prominent early position (as many people will only read the first paragraph) with use of highlighting where needed. A clear lay‐out with sub‐headings, a large enough font, use of bolding/colour and inclusion of appropriate pictures or diagrams can make a huge difference to readability and effective communication.
 It is vital that the level of the risk is made very clear by expressing it in absolute rather than relative terms (see Chapter 2). The need for clear and simple language is vital – a good tip when drafting is to read the communication out loud and listen to how it sounds.
 Table 4.5 represents a basic model for any drug safety communication, whether it is to be targeted at health professionals or at a lay audience (e.g. the general media).
-Information sent to health professionals should be clearly labelled
-‘Important safety information’ and, if appropriate, ‘Urgent’. It is also useful to prepare answers to ‘Frequently asked questions’ as these are often placed on relevant websites.
+
+Information sent to health professionals should be clearly labelled ‘Important safety information’ and, if appropriate, ‘Urgent’. It is also useful to prepare answers to ‘Frequently asked questions’ as these are often placed on relevant websites.
 
 ### Methods of Communication
 
@@ -283,12 +288,16 @@ Crisis management in drug safety is not fundamentally different from dealing wit
 - What will be considered a crisis
 - Composition of the crisis team and responsibilities
 - Stakeholders and need for interactions with them.
-  The first task of the crisis team is to draw up a specific crisis management plan which will define the following:
+
+The first task of the crisis team is to draw up a specific crisis management plan which will define the following:
+
 - Key objectives
 - Expected timelines (likely to be days to a few weeks at most)
 - Resources required
 - Responsibilities.
-  The key tasks for the drug safety crisis team are likely to be the following:
+
+The key tasks for the drug safety crisis team are likely to be the following:
+
 - Evaluation of the evidence
 - Decision‐making
 - Practical arrangements for implementation
