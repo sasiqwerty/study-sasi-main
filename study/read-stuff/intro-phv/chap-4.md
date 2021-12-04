@@ -82,6 +82,10 @@ Using such criteria, whole databases can be screened regularly by calculating tw
 
 A useful way of visualising the data is to plot, on logarithmic scales, the PRR against the value of chi‐squared using the number of reports (N) as the symbol (Figure 4.1). The vertical and horizontal lines represent the cut‐off points and everything in the upper right‐hand quadrant is a signal of an unexpected degree of disproportionality.
 
+![Figure 4.1](../../learn-stuff/phv/training/md%20files/training-guide/images/PRR.png)
+
+![Figure 4.2](../../learn-stuff/phv/training/md%20files/training-guide/images/p72f4-2.png)
+
 Note that the 41 cases of uveitis reported with rifabutin appear in this quadrant as one of the most extreme data points.
 
 Another useful way of looking at the data is to plot the PRR over time (Figure 4.2). In the historical example given in Figure 4.2, the angiotensin converting enzyme (ACE) inhibitor captopril was first marketed in 1982 but it took until 1986 before cough was recognised as an adverse reaction with this class of drug. Like thalidomide and practolol, the first indication of this association appeared in the published medical literature. By the beginning of 1986 there were at least 15 reports in the UK ADR database and the criteria discussed earlier would have been met some 2 years earlier when there were four reports and a PRR above 10. Note how the PRR fluctuates over time - ADR databases are dynamic - and that the increase in the period 1986-1988 is most likely to have been an effect of publicity about the reaction.
