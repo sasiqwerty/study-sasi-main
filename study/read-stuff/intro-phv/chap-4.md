@@ -36,21 +36,21 @@ Before that can happen, there is a need to identify the signal.
 
 The World Health Organization (WHO) has defined a signal as: Reported information on a possible causal relationship between an adverse event and a drug, the relationship being unknown or incompletely documented previously. Usually more than a single report is required to generate a signal, depending upon the seriousness of the event and the quality of the information.
 
-This definition seems mainly focused on spontaneous ADR reporting data. A broader approach would be to consider a signal as simply an alert from any available data source that a drug may be associated with a previously unrecognised hazard or that a known hazard may be quantitatively (e.g. more frequent) or qualitatively (e.g. more serious) different from existing knowledge. This approach is in line with the Council for International Organizations of Medical Sciences (CIOMS) VIII report (see Chapter 6), which defines a signal as: Information that arises from one or multiple sources (including observations and experiments), which suggests a new potentially causal association, or a new aspect of a known association, between an intervention and an event or a set of related events, either adverse or beneficial, that is judged to be of sufficient likelihood to justify verificatory action.
+This definition seems mainly focused on spontaneous ADR reporting data. A broader approach would be to consider a signal as simply an alert from any available data source that a drug may be associated with a previously unrecognised hazard or that a known hazard may be quantitatively (for example more frequent) or qualitatively (for example more serious) different from existing knowledge. This approach is in line with the Council for International Organizations of Medical Sciences (CIOMS) VIII report (see Chapter 6), which defines a signal as: Information that arises from one or multiple sources (including observations and experiments), which suggests a new potentially causal association, or a new aspect of a known association, between an intervention and an event or a set of related events, either adverse or beneficial, that is judged to be of sufficient likelihood to justify verificatory action.
 
 In practice, most signals will relate to previously unrecognised hazards, but a striking example of a signal that a known hazard was more serious than previously thought occurred in the mid‐1990s. The non‐steroidal anti‐inflammatory drug, tiaprofenic acid, had been known to cause cystitis for over a decade, but a series of cases was then reported indicating that, if the reaction was not recognised and the drug was continued in the long term, severe chronic cystitis might occur. The outcome was that surgical resection of the bladder was often necessary, leading to permanent disability.
 
-While some signals may be detected passively (e.g. from the medical literature), the process of signal detection should be fundamentally an active one. In terms of finding signals in large databases, it has been suggested that this is akin to looking for a needle in a haystack, although there are likely to be lots of needles to find. The term data mining (actively searching for patterns in large datasets) is now widely used in this context, particularly in relation to systematic detection of signals from large spontaneous ADR databases.
+While some signals may be detected passively (for example from the medical literature), the process of signal detection should be fundamentally an active one. In terms of finding signals in large databases, it has been suggested that this is akin to looking for a needle in a haystack, although there are likely to be lots of needles to find. The term data mining (actively searching for patterns in large datasets) is now widely used in this context, particularly in relation to systematic detection of signals from large spontaneous ADR databases.
 
 ### Processes for Signal Detection
 
-In the context of spontaneous ADR reporting, a signal is normally a series of cases of similar suspected ADRs reported in relation to a particular medicinal product. When the suspected ADR is a condition that is rare in the general population (e.g. aplastic anaemia, toxic epidermal necrolysis), a very small number of cases associated with a single drug is unlikely to be a chance phenomenon, even if the drug has been used quite widely. Except for certain types of event that are particularly important and likely to be drug related (e.g. anaphylaxis), a single case is not usually sufficient to raise a signal. Three cases are generally considered to be the minimum number of cases needed.
+In the context of spontaneous ADR reporting, a signal is normally a series of cases of similar suspected ADRs reported in relation to a particular medicinal product. When the suspected ADR is a condition that is rare in the general population (for example aplastic anaemia, toxic epidermal necrolysis), a very small number of cases associated with a single drug is unlikely to be a chance phenomenon, even if the drug has been used quite widely. Except for certain types of event that are particularly important and likely to be drug related (for example anaphylaxis), a single case is not usually sufficient to raise a signal. Three cases are generally considered to be the minimum number of cases needed.
 
 The amount of drug usage (i.e. some drug exposure data) is helpful in providing context to a series of reported cases, but it is not usually critical in determining whether there is a signal that needs to be evaluated. The strength of evidence for the individual cases will be important to consider later but, initially, the key issue is whether there is an unexpectedly large enough number of cases.
 
 In the past, various methods have been used to detect signals using spontaneous reporting data. Calculating reporting rates based on usage denominator data, as prescriptions dispensed or defined daily doses (or less accurately from estimated sales figures), may enable a signal of a particular ADR to be derived by comparison with alternative treatments. As spontaneous ADR reporting schemes are subject to a variable and unknown degree of under‐reporting and denominator data derived from sales data can be very inaccurate, such comparisons are crude. They may also be biased, particularly if the drugs being compared have been marketed for different indications or durations, or if there has been significant publicity about the adverse effects of one of the drugs.
 
-Disproportionality Approaches or Signal Detection The other principal approach that has been for making comparisons between drugs is to use the proportions of all ADRs for a particular drug that are of a specific type – perhaps within an organ system class of reactions (e.g. gastrointestinal or cutaneous). This is known as profiling, a method that has an advantage over reporting rates in that it is independent of the level of usage. The data can be displayed graphically as ‘ADR profiles’. This proportionate approach forms the basis of statistical methods which have been developed since the mid-1990s and are now widely used. One important advantage of these methods is that no external data (e.g. usage) are required – they are entirely based on information present on a single database.
+Disproportionality Approaches or Signal Detection The other principal approach that has been for making comparisons between drugs is to use the proportions of all ADRs for a particular drug that are of a specific type – perhaps within an organ system class of reactions (for example gastrointestinal or cutaneous). This is known as profiling, a method that has an advantage over reporting rates in that it is independent of the level of usage. The data can be displayed graphically as ‘ADR profiles’. This proportionate approach forms the basis of statistical methods which have been developed since the mid-1990s and are now widely used. One important advantage of these methods is that no external data (for example usage) are required – they are entirely based on information present on a single database.
 
 The basic concept behind such measures of ‘disproportionality’ is whether more reports have been received for a particular drug– reaction combination than might have been expected as background noise. When all drugs are considered together, large ADR databases tend to have fairly stable proportions of particular reactions over time. That proportion is used as a baseline for comparison –to determine what would be expected if there was no signal. For example, in the UK Yellow Card database in the mid‐1990s, there were nearly 600 000 suspected reactions which had been reported to any drug over a period of 30 years. Almost 800 of these (about 0.13%) were classified as ‘uveitis’ (inflammation of the middle layer of the eye). A few years earlier, a new anti‐tuberculous drug,rifabutin, had been introduced and some 41 cases of uveitis were reported as suspected ADRs to this drug. In total, only 55 reactions of any kind had been reported with rifabutin by that time (i.e. 75% of them were uveitis). In this example, the expected proportion of uveitis reports (derived from placing all other drugs together) was 0.13% but the observed value for rifabutin was 75%. Dividing 75/0.13 yields a number well over 500 – this is known as the proportional reporting ratio (PRR). The ‘null value’ of a PRR is 1 and the calculation is made from a two‐by‐two table, as shown in Table 4.1.
 
@@ -92,12 +92,12 @@ The data mining approach to signal detection has been questioned by some practit
 Systematic use of data mining tools in a large spontaneous ADR database will identify large numbers of statistical signals. Evaluating all of them in detail would have major resource implications as many will
 turn out not to be real or to require no action. Possible signals have often been evaluated or dismissed on the basis of subjective judgements, but two more formal methods of prioritisation have been developed.
 
-- Triage (used by the WHO UMC) analogous to a process used in emergency medicine to decide on priorities. Essentially, it is a quick look at the most important features of a case series (e.g. seriousness, outcome) to decide on the urgency of further assessment relative to other cases.
+- Triage (used by the WHO UMC) analogous to a process used in emergency medicine to decide on priorities. Essentially, it is a quick look at the most important features of a case series (for example seriousness, outcome) to decide on the urgency of further assessment relative to other cases.
 - Impact analysis (used by the UK MHRA) more quantitative and involves calculating two scores which are then used to decide an overall priority
 
 Evidence score:
 
-- Based on the degree of disproportionality (e.g. value of PRR)
+- Based on the degree of disproportionality (for example value of PRR)
 - Strength of evidence
 - Biological plausibility.
 
@@ -126,7 +126,7 @@ When evaluating a signal the key issues are:
 - Causality – does the balance of evidence support cause and effect?
 - Frequency – if this is a real effect, how often is it occurring? Can we make any estimate of the likely level of absolute risk ?
 - Seriousness of the ADR – are there any fatal cases, is the reaction potentially life‐threatening, can it result in long‐term disability?
-- Other clinical implications – even if the ADR is not serious , are there other important effects for patients and healthcare systems (e.g. need for extensive investigations or inability to work)?
+- Other clinical implications – even if the ADR is not serious , are there other important effects for patients and healthcare systems (for example need for extensive investigations or inability to work)?
 - Preventability – are there any factors that, even at this stage, suggest a potential means to prevent the adverse reaction or serious outcomes arising from it?
 
 In terms of frequency, the descriptors originally proposed by a CIOMS working group (see Chapter 6) are generally used, based on orders of magnitude and expressed as a simple proportion of patients affected (Table 4.2).
@@ -154,15 +154,15 @@ can impact on the potential for prevention of ADRs. Broadly, these can be classi
 User characteristics:
 
 - Demographics: age, sex, race
-- Genetic factors: polymorphisms (e.g. acetylator status)
-- Concomitant diseases (e.g. impaired hepatic or renal failure)
-- History of previous ADRs (e.g. allergy)
+- Genetic factors: polymorphisms (for example acetylator status)
+- Concomitant diseases (for example impaired hepatic or renal failure)
+- History of previous ADRs (for example allergy)
 - Compliance and use of other medicines.
 
 Drug characteristics:
 
 - Route of administration
-- Formulation (e.g. sustained vs. immediate release, excipients)
+- Formulation (for example sustained vs. immediate release, excipients)
 - Dosage regimen
 - Therapeutic index (a measure of the intrinsic safety of a drug in relation to dose)
 - Mechanisms of drug metabolism and route of excretion
@@ -179,7 +179,7 @@ Potential for actions to improve safety related to sections of the Summary of Pr
   - for which the benefits are insufficient to justify use;
   - for which use is associated with a greater risk of the ADR
 
-- Dosing instructions - Reductions in dose (may be applied to specific groups, e.g. the elderly); limitations on duration or frequency of treatment (especially for ADRs related to cumulative dose); provision of information on safer administration
+- Dosing instructions - Reductions in dose (may be applied to specific groups, for example the elderly); limitations on duration or frequency of treatment (especially for ADRs related to cumulative dose); provision of information on safer administration
 - Contraindications - Addition of concomitant diseases and/or medications for which the risks of use are expected to outweigh the benefits
 - Warnings/precautions - Addition of concomitant diseases and/or medications for which the risks of use need to be weighed carefully against the benefits; additional or modified recommendations for monitoring patients
 - Interactions - Addition of concomitant medications, alcohol or foods that may interact; advice on co‐prescription and any monitoring required
@@ -218,7 +218,7 @@ The following is a suggested basic approach or framework for making decisions on
 
 Unless the medicine is to be withdrawn from the market, most regulatory actions that could be taken will involve a change to the marketing authorisation and product information. Occasionally, the existing product information is considered satisfactory and the problem is merely that the recommendations within it are frequently not being followed. In these circumstances, ‘reminder’ communications may be issued, often directly by regulatory authorities and through regular bulletins by which the authorities communicate with health professionals. However, the extent to which these influence the behaviour of prescribers is unclear.
 
-An important consideration is how quickly information needs to be made available to health professionals and patients. A new life-threatening ADR requires immediate communication, whereas the addition of a symptom that does not appear to be associated with serious consequences (e.g. nausea) to the undesirable effects section of the product information could be part of the next routine revision of the SPC. Most issues come between these two extremes and a judgement needs to be made about the speed of action and the most appropriate method of communication.
+An important consideration is how quickly information needs to be made available to health professionals and patients. A new life-threatening ADR requires immediate communication, whereas the addition of a symptom that does not appear to be associated with serious consequences (for example nausea) to the undesirable effects section of the product information could be part of the next routine revision of the SPC. Most issues come between these two extremes and a judgement needs to be made about the speed of action and the most appropriate method of communication.
 
 An issue that is particularly difficult relates to communication of signals to users of medicines. In the past, unconfirmed signals have rarely been communicated actively by regulatory bodies because of the uncertainty involved and because it is often difficult to make clear recommendations to users. However, in recent years expectations have changed and appearing to ‘sit’ on potentially worrying information which then leaks out can damage confidence in the system and lead to perceptions that the data are worse than is really the case. In an important example, in 2007 the WHO UMC published a signal of approximately 10‐fold disproportionate ADR reporting identified from their spontaneous database related to statins and amyotrophic lateral sclerosis (a life‐threatening neurological condition) despite much uncertainty about cause and effect. This was picked up and covered by the general media but, despite the very wide use of statins, it did not appear to create a major ‘scare’. Subsequently, the signal was effectively disproved by further investigation. It is likely that information about signals will increasingly be actively communicated in the future, for example through social media.
 
@@ -245,7 +245,7 @@ Communications intended for patients should be written in plain language and rev
 
 It is particularly important in any communication about drug safety to ensure that essential information is clearly conveyed and not obscured by other less important information. The key facts and advice should be placed in a prominent early position (as many people will only read the first paragraph) with use of highlighting where needed. A clear lay‐out with sub‐headings, a large enough font, use of bolding/colour and inclusion of appropriate pictures or diagrams can make a huge difference to readability and effective communication.
 It is vital that the level of the risk is made very clear by expressing it in absolute rather than relative terms (see Chapter 2). The need for clear and simple language is vital – a good tip when drafting is to read the communication out loud and listen to how it sounds.
-Table 4.5 represents a basic model for any drug safety communication, whether it is to be targeted at health professionals or at a lay audience (e.g. the general media).
+Table 4.5 represents a basic model for any drug safety communication, whether it is to be targeted at health professionals or at a lay audience (for example the general media).
 
 Information sent to health professionals should be clearly labelled ‘Important safety information’ and, if appropriate, ‘Urgent’. It is also useful to prepare answers to ‘Frequently asked questions’ as these are often placed on relevant websites.
 
@@ -270,8 +270,8 @@ Short heading which includes the drug and hazard
 
 Measuring the success (or failure) of actions taken to minimise risk is an important step in the overall process, but one that is often over-looked or poorly done. Broadly, the possible methods of evaluating the effectiveness of actions taken are as follows:
 
-- Testing the effectiveness of the communications – have they been received and understood (e.g. using market research techniques)?
-- Analysing the effect on prescribing – the extent to which prescribing habits may have been modified and whether these changes consistent with revised recommendations in the product information (e.g.
+- Testing the effectiveness of the communications – have they been received and understood (for example using market research techniques)?
+- Analysing the effect on prescribing – the extent to which prescribing habits may have been modified and whether these changes consistent with revised recommendations in the product information (for example
   using longitudinal patient databases).
 - Monitoring spontaneously reported cases – to see whether serious cases continue to be reported. The numbers of cases reported may be difficult to interpret because of publicity bias, but it can be useful to see, for example, whether any of the reported cases reflect contraindicated use.
 - Observation/formal study of prescribing and events – has the action resulted in reduced morbidity/mortality from the ADR in practice?
@@ -281,7 +281,7 @@ This will require use of a longitudinal patient database, performance of clinica
 ## Crisis Management
 
 Every drug safety issue is different and an important step in dealing with one is to determine the level of urgency, using the principles discussed (broadly, the public health impact taking into account the absolute frequency of the hazard, number of users and seriousness).
-Major, newly identified hazards result in a need to re‐evaluate the overall risk–benefit balance of a product. The highest level of urgency occurs when new evidence emerges suggesting that the risks of a medicine may outweigh the benefits, either for all users or in specific circumstances (e.g. a particular indication). Thus, a potential or defined need to withdraw a drug on safety grounds is inevitably a crisis situation for all those involved in its management. In these circumstances, any delay can result in damage to patients and reasonable haste is necessary.
+Major, newly identified hazards result in a need to re‐evaluate the overall risk–benefit balance of a product. The highest level of urgency occurs when new evidence emerges suggesting that the risks of a medicine may outweigh the benefits, either for all users or in specific circumstances (for example a particular indication). Thus, a potential or defined need to withdraw a drug on safety grounds is inevitably a crisis situation for all those involved in its management. In these circumstances, any delay can result in damage to patients and reasonable haste is necessary.
 
 Crisis management in drug safety is not fundamentally different from dealing with other types of crisis. A standard operating procedure for crisis management needs to be in place beforehand defining:
 
