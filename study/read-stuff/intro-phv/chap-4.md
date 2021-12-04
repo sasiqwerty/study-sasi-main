@@ -1,27 +1,29 @@
 # The Process of Pharmacovigilance
 
-- [The Process of Pharmacovigilance](#the-process-of-pharmacovigilance)
-  - [Overview - A Risk Management Process](#overview---a-risk-management-process)
-  - [Signal Detection](#signal-detection)
-    - [What is a Signal?](#what-is-a-signal)
-    - [Processes for Signal Detection](#processes-for-signal-detection)
-    - [Disproportionality Approaches or Signal Detection](#disproportionality-approaches-or-signal-detection)
-  - [Evaluation and Investigation](#evaluation-and-investigation)
-    - [Signal Prioritisation](#signal-prioritisation)
-    - [Principles of Signal Evaluation](#principles-of-signal-evaluation)
-    - [Further Investigation](#further-investigation)
-  - [Potential Options](#potential-options)
-    - [Making a Decision](#making-a-decision)
-    - [Implementation](#implementation)
-    - [Other Methods of Implementing Changes in Practice](#other-methods-of-implementing-changes-in-practice)
-  - [Communication](#communication)
-    - [Principles](#principles)
-    - [Practical Issues](#practical-issues)
-    - [Methods of Communication](#methods-of-communication)
-      - [Basic model for a drug safety communication.](#basic-model-for-a-drug-safety-communication)
-  - [Measuring the Effectiveness of the Risk Minimisation Process](#measuring-the-effectiveness-of-the-risk-minimisation-process)
-  - [Crisis Management](#crisis-management)
-  - [Conclusions](#conclusions)
+Introduction to Pharmacovigilance - Patrick Waller
+
+1. [The Process of Pharmacovigilance](#the-process-of-pharmacovigilance)
+   1. [Overview - A Risk Management Process](#overview---a-risk-management-process)
+   2. [Signal Detection](#signal-detection)
+      1. [What is a Signal?](#what-is-a-signal)
+      2. [Processes for Signal Detection](#processes-for-signal-detection)
+      3. [Disproportionality Approaches or Signal Detection](#disproportionality-approaches-or-signal-detection)
+   3. [Evaluation and Investigation](#evaluation-and-investigation)
+      1. [Signal Prioritisation](#signal-prioritisation)
+      2. [Principles of Signal Evaluation](#principles-of-signal-evaluation)
+      3. [Further Investigation](#further-investigation)
+   4. [Potential Options](#potential-options)
+      1. [Making a Decision](#making-a-decision)
+      2. [Implementation](#implementation)
+      3. [Other Methods of Implementing Changes in Practice](#other-methods-of-implementing-changes-in-practice)
+   5. [Communication](#communication)
+      1. [Principles](#principles)
+      2. [Practical Issues](#practical-issues)
+      3. [Methods of Communication](#methods-of-communication)
+         1. [Basic model for a drug safety communication](#basic-model-for-a-drug-safety-communication)
+   6. [Measuring the Effectiveness of the Risk Minimisation Process](#measuring-the-effectiveness-of-the-risk-minimisation-process)
+   7. [Crisis Management](#crisis-management)
+   8. [Conclusions](#conclusions)
 
 ## Overview - A Risk Management Process
 
@@ -252,6 +254,7 @@ These can be remembered by the mnemonic ABOUT (Table 4.4).
 
 The ABOUT criteria are considerations that can be used to formulate the process of developing a communication. A draft should be tested against these requirements by a review process which includes both individuals who are experts in the field and those who are generalists.
 Communications intended for patients should be written in plain language and reviewed by lay people. Information should be prepared in the appropriate languages of the target populations in the countries affected. In urgent situations it is vital to spend enough of the time that is available ensuring that these requirements are met.
+
 ![table 4.4](../../learn-stuff/phv/training/md%20files/training-guide/images/p82t4-4.png)
 
 It is particularly important in any communication about drug safety to ensure that essential information is clearly conveyed and not obscured by other less important information. The key facts and advice should be placed in a prominent early position (as many people will only read the first paragraph) with use of highlighting where needed. A clear lay‐out with sub‐headings, a large enough font, use of bolding/colour and inclusion of appropriate pictures or diagrams can make a huge difference to readability and effective communication.
@@ -264,7 +267,7 @@ Information sent to health professionals should be clearly labelled ‘Important
 
 Today there are many different ways in which drug safety messages can be conveyed to the target audience (which must be clearly defined), from hard copy letters through to electronic methods including social media and text messaging. It is important to consider which means will be most effective in the local environment and also which are the most appropriate. These aspects of risk communication are still evolving.
 
-#### Basic model for a drug safety communication.
+#### Basic model for a drug safety communication
 
 Short heading which includes the drug and hazard
 
@@ -320,7 +323,8 @@ Therefore, personnel who continue to deal with routine work should ideally be ke
 
 ## Conclusions
 
-This chapter has considered the process of pharmacovigilance from a signal of possible hazard through to remedial action, including effective risk communication. The outlined principles apply to pharmaceutical companies, regulatory authorities, researchers and other professionals involved in the practice of pharmacovigilance
-worldwide, including those who can support implementation of changes in clinical practice in order to achieve safer use of medicines.
+This chapter has considered the process of pharmacovigilance from a signal of possible hazard through to remedial action, including effective risk communication. The outlined principles apply to pharmaceutical companies, regulatory authorities, researchers and other professionals involved in the practice of pharmacovigilance worldwide, including those who can support implementation of changes in clinical practice in order to achieve safer use of medicines.
+
 Good communication, both within organisations and with external stakeholders, is essential in achieving the best results from the process.
+
 Chapter 5 considers how companies and regulators should interact to ensure that the pharmacovigilance process is appropriately applied.
