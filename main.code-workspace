@@ -12,15 +12,21 @@
       "dechallenge",
       "DSUR",
       "Erice",
+      "genotoxicity",
       "genotyping",
       "Hartwig",
       "HIPPA",
+      "ICMRA",
+      "ISPE",
       "Labeldness",
+      "MHRA",
       "NARANJO",
       "PADER",
       "PAER",
       "Pharmacoepidemiological",
       "Pharmacoepidemiology",
+      "Pharmacogenetics",
+      "PIDM",
       "Polypharmacy",
       "PSUR",
       "rechallange",
@@ -29,7 +35,8 @@
       "Seigels",
       "SUSAR",
       "Unassessable",
-      "Upsala"
+      "Upsala",
+      "Vigi"
     ]
   }
 }
