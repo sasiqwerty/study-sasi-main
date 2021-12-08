@@ -1,5 +1,26 @@
 # Basic Concepts - Intro to PhV - 2
 
+1. [Basic Concepts - Intro to PhV - 2](#basic-concepts---intro-to-phv---2)
+   1. [Adverse Drug Reactions](#adverse-drug-reactions)
+      1. [Definitions](#definitions)
+      2. [Classification Systems](#classification-systems)
+      3. [DoTS Classification](#dots-classification)
+   2. [Nature and Mechanisms of ADRs](#nature-and-mechanisms-of-adrs)
+      1. [Predisposing Factors for ADRs](#predisposing-factors-for-adrs)
+      2. [Drug Interactions](#drug-interactions)
+   3. [The Concept of Safety](#the-concept-of-safety)
+      1. [Definition](#definition)
+      2. [Measuring Risk](#measuring-risk)
+      3. [Safety in Practice](#safety-in-practice)
+      4. [Risk-Benefit Balance](#risk-benefit-balance)
+      5. [Lack of Benefit](#lack-of-benefit)
+   4. [Causation - Was the Drug Responsible?](#causation---was-the-drug-responsible)
+      1. [Causality Assessment in Individual Cases](#causality-assessment-in-individual-cases)
+      2. [Assessing Causality from Clinical Trial Data](#assessing-causality-from-clinical-trial-data)
+      3. [Causality in Non‐Randomised Studies - The Problems of Bias and Confounding](#causality-in-nonrandomised-studies---the-problems-of-bias-and-confounding)
+      4. [Using the Bradford Hill Criteria to Assess Causality](#using-the-bradford-hill-criteria-to-assess-causality)
+   5. [Conclusions](#conclusions)
+
 The two most important concepts in pharmacovigilance are opposites: harm and safety. The usual term for harm related to a medicine is an adverse drug reaction (ADR). As pharmacovigilance is fundamentally about preventing and managing ADRs, this concept is considered first through a summary of relevant definitions, classification systems that have been proposed, their nature and mechanisms and predisposing factors. Subsequently, the concept of safety is defined and discussed, particularly in the context of balancing harms with benefits. Finally, we consider the issue of causation how we go about deciding whether or not a patient has experienced an ADR or whether a medicinal product really is responsible for an apparent safety problem.
 
 ## Adverse Drug Reactions
@@ -58,7 +79,11 @@ In 2003, a system of classification was proposed by Aronson and Ferner based on 
 
 ![Table 2.1](../../../images/p36.png)
 
-In terms of dose‐relatedness, 'toxic' means that reactions occur as a result of drug levels being too high, 'collateral' means that reactions occur at drug levels that are in the usual therapeutic range and ' hyper-susceptibility' means that reactions can occur even at very low, sub‐therapeutic doses.
+In terms of dose‐relatedness,
+
+- toxic means that reactions occur as a result of drug levels being too high,
+- collateral means that reactions occur at drug levels that are in the usual therapeutic range and
+- hyper-susceptibility means that reactions can occur even at very low, sub‐therapeutic doses.
 
 The terms 'early', 'intermediate' and 'late' have not been precisely defined; the main difference between 'late' and 'delayed' reactions is that the latter can occur long after treatment is stopped (e.g. cancer, which can occur years after exposure to a causal agent). A withdrawal reaction means one that is specifically precipitated by stopping the drug.
 

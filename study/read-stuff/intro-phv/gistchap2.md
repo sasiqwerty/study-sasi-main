@@ -30,4 +30,31 @@ If the drug in question causes the problem to persist for a long time or is cons
 
 ### DoTS Classification
 
-The DoTs classification is based on Dose relatedness, time course and susceptibility. Most ADRs do not clearly fit into the A/B scheme this approach helps to solve that problem.  
+The DoTs classification is based on Dose relatedness, time course and susceptibility. Most ADRs clearly do not fit into the A/B scheme, this approach helps to solve that problem.
+
+In terms of dose-relatedness toxic means that the dose was too high and collateral means that the effect occurred in the usual therapeutic ranges while hyper-susceptibility means that reactions can occur even at very low, sub-therapeutic doses.
+
+The terms early, intermediate and late are not precisely defined but the main difference between late and delayed is that the latter can occur long after the treatment is stopped.
+
+## Nature and Mechanism of ADRs
+
+The adverse effects of medicines usually mimic diseases or syndromes that occur naturally and have a variety of non-drug potential causes.
+
+In broad terms ADRs can be categorised into 4 types.
+
+- exaggerated therapeutic response at the target site
+- desired pharmacological effect at another site
+- additional/secondary pharmacological actions
+- Triggering an immune response
+
+## Predisposing Factors for ADRs
+
+- Age, older people are at a higher risk
+- Gender, Women are generally at a higher risk
+- Ethnic Origin, Can effect drug metabolism because of genetic predisposition
+- Impaired excretory mechanisms
+- Specific diseases
+- Polypharmacy
+- Any previous history of an ADR
+
+## Drug interactions
