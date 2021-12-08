@@ -2,7 +2,7 @@
 
 ## [Tomaso Poggio](https://mcgovern.mit.edu/profile/tomaso-poggio/)
 
-## Keywords
+### Keywords
 
 - computational neuroscience
 - stereovision
