@@ -1,5 +1,29 @@
 # Types and Sources of Data
 
+1. [Types and Sources of Data](#types-and-sources-of-data)
+   1. [Pre‐clinical Studies](#preclinical-studies)
+   2. [Human Volunteer Studies (Phase I)](#human-volunteer-studies-phase-i)
+   3. [Clinical Trials (Phase II and III Studies)](#clinical-trials-phase-ii-and-iii-studies)
+   4. [Post‐marketing Surveillance (Phase IV Studies)](#postmarketing-surveillance-phase-iv-studies)
+   5. [Spontaneous ADR Reporting Systems](#spontaneous-adr-reporting-systems)
+      1. [Key Elements of Spontaneous Reporting Programmes](#key-elements-of-spontaneous-reporting-programmes)
+         1. [Health Professionals who are Willing to Participate](#health-professionals-who-are-willing-to-participate)
+         2. [Simplicity in Submission of Reports](#simplicity-in-submission-of-reports)
+         3. [Prompt Entry of Reports on to a Database](#prompt-entry-of-reports-on-to-a-database)
+         4. [Coding and Assessment of ADR Reports](#coding-and-assessment-of-adr-reports)
+         5. [Follow‐up of Reports](#followup-of-reports)
+         6. [Analytical Tools to Detect Signals](#analytical-tools-to-detect-signals)
+         7. [Processes for Dealing with Signals](#processes-for-dealing-with-signals)
+         8. [Feedback to Reporters](#feedback-to-reporters)
+      2. [Recent Spontaneous Reporting Data from the UK Yellow Card Scheme](#recent-spontaneous-reporting-data-from-the-uk-yellow-card-scheme)
+      3. [Spontaneous Reporting Around the World](#spontaneous-reporting-around-the-world)
+      4. [Strengths and Weaknesses of Spontaneous Reporting](#strengths-and-weaknesses-of-spontaneous-reporting)
+   6. [Pharmacoepidemiological Studies](#pharmacoepidemiological-studies)
+   7. [Prescription‐Event Monitoring](#prescriptionevent-monitoring)
+   8. [Registries](#registries)
+   9. [Systematic Reviews and Meta‐analysis](#systematic-reviews-and-metaanalysis)
+   10. [Conclusions](#conclusions)
+
 The safety of medicines is under evaluation throughout the drug development cycle. This process starts before humans are exposed, and continues during the clinical development and post‐marketing phases. Broadly, the safety of a medicine is tested in four phases, each of which produces different types of data:
 
 1. Pre‐clinical (animal) studies
@@ -32,19 +56,20 @@ Generally, the predictive value of pre‐clinical studies for human toxicity is 
 
 For most medicines, the first human exposure takes place in healthy volunteers but cytotoxic drugs used to treat cancers are an exception.
 Participants are very closely monitored with clinical supervision and resuscitation equipment must be immediately to hand. The purposes are to establish a possible dosage regimen, investigate how the drug is handled by the body and what the effects are on a variety of standard parameters (e.g. pulse and blood pressure, ECG, haematology). Assuming the drug appears to have no major untoward effects, it can then be studied in clinical trials that include patients with the target disease(s).
-Healthy volunteer (or Phase I) studies have generally had a good safety record over a long period of time but, occasionally, major adverse reactions do occur. In 2006, all six of the first humans treated
+Healthy volunteer (or Phase I) studies have generally had a good safety record over a long period of time but, occasionally, major adverse reactions do occur.
 
-with the monoclonal antibody TGN1412 in London rapidly developed multi‐organ failure. The incident was investigated in detail by the UK regulatory authority who concluded that the reactions were an unexpected biological effect. A further unexpected and serious incident occurred in France in 2016 when administration of escalat-ing doses of BIA 10‐2474, a fatty acid amide hydrolase inhibitor, to healthy volunteers led to one death and three cases of serious neurological damage in healthy volunteers. In that instance, about 80 people had previously been given the drug without similar effects being observed.
+In 2006, all six of the first humans treated with the monoclonal antibody TGN1412 in London rapidly developed multi‐organ failure. The incident was investigated in detail by the UK regulatory authority who concluded that the reactions were an unexpected biological effect. A further unexpected and serious incident occurred in France in 2016 when administration of escalating doses of BIA 10‐2474, a fatty acid amide hydrolase inhibitor, to healthy volunteers led to one death and three cases of serious neurological damage in healthy volunteers. In that instance, about 80 people had previously been given the drug without similar effects being observed.
 
 ## Clinical Trials (Phase II and III Studies)
 
 Clinical trials are usually designed to study both efficacy and safety, but efficacy is usually the primary end‐point. The design of such trials incorporates various features to minimise bias such as randomisation to treatment groups, blinding of subjects and observers/investigators to treatment allocation, and validated measurement instruments.
+
 Initially, fairly small Phase II trials are conducted; these tend to be focused on efficacy and dosage requirements. Larger Phase III trials are then conducted and form the key element of the safety database prior to marketing. All adverse events occurring in patients after exposure to the drug and a comparator (which can be a placebo or an alternative active drug) are systematically recorded. In order to minimise measurement bias, it is usual to ‘blind’ all study participants (i.e. patients and clinicians, which is known as ‘double blinding’) to the treatments given or, if that is not possible, to ‘blind’ those who are involved in assessing the outcomes (a form of ‘single blinding’), particularly if there is any subjectivity involved.
+
 In clinical trials, the data are analysed to identify adverse events that occur at significantly higher rates on the medicinal product of interest than on comparators. Usually, the data from all pre‐licensing trials are pooled in a global safety analysis for presentation to regulatory authorities. Clinical trials will identify most common adverse reactions but often have important limitations, including:
 
 - Selection of patients – those at greatest risk of ADRs, or those who have not responded to similar medicines, are often excluded.
 - Study size – the numbers of patients studied is generally not enough to identify rare but serious ADRs.
-- 40 An Introduction to Pharmacovigilance
 - The artificial conditions – patients are likely to be more closely monitored than in real life.
 - Measurement of surrogate markers of effect rather than ‘hard’
 - end‐points.
@@ -62,14 +87,15 @@ The extent to which the safety of a new drug can be studied post-marketing depen
 
 ## Spontaneous ADR Reporting Systems
 
-The primary purpose of spontaneous ADR reporting is to provide early warnings or ‘signals’ of previously unrecognised drug toxicity.
-As discussed in Chapter 1, the method was developed in the 1960s in response to the thalidomide tragedy and is now well‐established throughout the developed world and in some developing countries.
+The primary purpose of spontaneous ADR reporting is to provide early warnings or ‘signals’ of previously unrecognised drug toxicity. As discussed in Chapter 1, the method was developed in the 1960s in response to the thalidomide tragedy and is now well‐established throughout the developed world and in some developing countries.
+
 Health professionals are the key original source of spontaneous reports, but in recent years patient reporting has become widely accepted, although its value in signal detection is not fully established.
+
 In recent years, electronic transmission of all reports has become the norm between pharmaceutical companies and regulatory authorities in most countries and is progressing in terms of initial transmission from health professionals in many parts of the world.
 
 Spontaneous ADR reporting can be defined as a scheme for collat-ing individual case reports of suspected ADRs, operated for the primary purpose of detecting unknown, potentially seriously harmful effects of drugs. As discussed in Chapter 2, individual cases can be assessed for causation using established principles. However, except in the very rare circumstance whereby a drug causes a previously unidentified syndrome (i.e. an apparently completely specific drug–event association), a series of spontaneous ADR reports provides only limited evidence of causation. Generally therefore, data from these schemes raise questions rather than provide answers.
 
-Today, many spontaneous ADR reporting systems are in operation around the world and these are generally effective, but they are not a panacea for two main reasons. First, the output is essentially only a ‘signal’, which is a possible association requiring further evaluation and investigation and some signals will inevitably turn out to be false positives (i.e. not related to the drug). Secondly, the method is far from perfect in rapidly detecting all unrecognised ADRs. There will also be false negatives, which are ultimately detected by other methods, e.g. practolol and oculo‐mucocutaneous syndrome, as discussed in Chapter 1).
+Today, many spontaneous ADR reporting systems are in operation around the world and these are generally effective, but they are not a panacea for two main reasons. First, the output is essentially only a ‘signal’, which is a possible association requiring further evaluation and investigation and some signals will inevitably turn out to be false positives (i.e. not related to the drug). Secondly, the method is far from perfect in rapidly detecting all unrecognised ADRs. There will also be false negatives, which are ultimately detected by other methods, e.g. practolol and oculo‐mucocutaneous syndrome, as discussed in Chapter 1.
 
 ### Key Elements of Spontaneous Reporting Programmes
 
@@ -79,8 +105,7 @@ Spontaneous ADR reporting is conceptually simple. Reports are submitted on a vol
 
 The value of a spontaneous report mainly derives from the suspicion of a reporter that a drug may have been responsible for a particular event. Most national programmes now encourage reports from any health professional involved in the patient’s care including doctors, pharmacists, nurses and midwives. When a report is submitted by a patient or carer (or a health professional who is not the patient’s usual carer), there is much to be gained by follow‐up with the patient’s regular doctor (general practitioners in many countries) who usually has the most clinical information about the patient concerned.
 
-Cooperation from clinicians is essential for successful spontaneous reporting schemes and, in practice in most countries, reporting is invariably voluntary. Although some countries have ‘mandatory’ ADR
-reporting schemes for health professionals, they do not always have markedly higher reporting rates per head of the population, because usually there is no practical mechanism of enforcement. The reasons why some health professionals are prepared to report (and why some countries have much higher rates of reporting) are not fully understood and are likely to be multifactorial, including other elements of reporting schemes.
+Cooperation from clinicians is essential for successful spontaneous reporting schemes and, in practice in most countries, reporting is invariably voluntary. Although some countries have ‘mandatory’ ADR reporting schemes for health professionals, they do not always have markedly higher reporting rates per head of the population, because usually there is no practical mechanism of enforcement. The reasons why some health professionals are prepared to report (and why some countries have much higher rates of reporting) are not fully understood and are likely to be multifactorial, including other elements of reporting schemes.
 
 #### Simplicity in Submission of Reports
 
@@ -91,6 +116,7 @@ Electronic reporting methods are increasingly important and several national pha
 #### Prompt Entry of Reports on to a Database
 
 It is important to ensure prompt data entry of reports on to databases to avoid backlogs and to ensure that reports containing vital new information are assessed as soon as possible. Most national schemes have standard operating procedures to ensure timely data entry and evaluation of reports.
+
 Data entry involves coding both the suspect medicine (and concomitant medicines) and the suspected ADR. Standard dictionaries should be used for coding. A drugs dictionary is required for coding medicines and the most commonly used is the one maintained by the World Health Organization (WHO). This uses the Anatomical Therapeutic Chemical (ATC) classification system and contains around 50 000 drugs.
 
 #### Coding and Assessment of ADR Reports
@@ -126,6 +152,7 @@ During 2011–2015, the system organ classes most commonly used to classify the 
 ### Spontaneous Reporting Around the World
 
 Spontaneous reporting schemes are well‐established throughout the developed world and have also been set up in many developing countries. Most national schemes are run by the medicines regulatory agency but other models exist, for example in the Netherlands and in New Zealand, where the monitoring centre is a separate institution.
+
 Some larger countries have regional centres which may serve as a local base for the submission, handling and follow‐up of reports, and/or assist in promoting reporting and education about ADRs. In France, the whole country is covered by such regional centres with a coordinating group based at the French medicines agency. In the UK, only part of the country is covered by regional centres and in other areas reports are submitted and handled centrally.
 
 In most countries, pharmaceutical companies have legal obligations to submit spontaneous adverse reaction reports (see Chapter 5) and these are entered on to the national database. There is some variation among countries as to the proportion of reports that come via the industry (e.g. a large majority do so in Germany, the USA and Singapore, but the proportion is less in the UK). There is a potential for duplication of reports which a clinician submits to both industry and agency and also because more than one clinician can report the same case. A systematic approach to screening databases for duplicates is required and this task has become more difficult as confidentiality restrictions have increased.

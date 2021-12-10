@@ -262,3 +262,8 @@ fieldset {
   margin-bottom: 0.5rem;
   font-weight: 600;
 }
+.haiku {
+  background-color: #557783;
+  padding: 1em;
+  border-radius: 0.75rem;
+}
