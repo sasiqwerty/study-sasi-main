@@ -57,24 +57,6 @@ ARDs may be explained by one of five mechanisms:
 - immune-mediated reactions
 - idiosyncratic reactions, i.e., reactions of unknown mechanisms. A drug or drug class may produce toxic or adverse reactions by one or several of these mechanisms.
 
-### On-Target Reactions
-
-Drugs are intended to react with specific(intended) receptors in specific(intended) tissues. An 'on-target' ADR may occur when the drug interacts with its intended receptor in the intended tissue. Many drugs are expressed in more than one cell type. An 'on-target' reaction can also occur when the drug interacts with the intended receptor, but in an unintended tissue.
-
-For example, intended targets for H1-histamine receptor antagonists are found in peripheral tissues, i.e., vascular smooth muscle, vascular endothelial cells, lungs, and nerve fibers. However, H1-histamine receptor antagonists with high lipid solubility cross the blood brain-barrier, interact with H1-receptors in the brain, and cause drowsiness.
-
-### Off-target Reactions
-
-Very few drugs are completely selective; Consequently they interact with different receptor types. An off-target ADR can occur when the drug interacts with an unintended receptor either in an intended or in an unintended tissue.
-
-For example, a β2-adrenergic receptor agonist used to treat asthma may interact with β1-adrenergic receptors in the heart and increase heart rate; and β1-adrenergic receptor blocking agents targeting the heart may also antagonize β2-adrenergic receptors in lungs and cause broncho-constriction.
-
-Two other examples of “off-target” ADRs, uncovered during post-marketing surveillance, resulted in the withdrawal of both drugs from the market. Terfenadine, an H1-histamine receptor blocking agent also interacted with unintended receptors (potassium channels) in an unintended tissue (heart) that caused fatal cardiac arrhythmias. The anorectic agent, fenfluramine, targeting 5-HT serotonin receptors in the brain also interacted with 5-HT2B receptors in the heart causing myofibroblast proliferation and fatal valvular damage.
-
-### Cytotoxic Mechanisms of ADRs
-
-Most drugs undergo metabolism into inactive metabolites in the liver and/or other tissues.
-
 ## Predisposing Factors for ADRs
 
 - Age, older people are at a higher risk
