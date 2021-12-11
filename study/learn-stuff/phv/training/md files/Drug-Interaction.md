@@ -107,6 +107,6 @@ Nutrients can act as mechanical barriers and protect the gastric mucosa from irr
 
 ## Drug-herbal Interactions
 
-Components of grapefruit inhibit CYP450 isoenzyme 3A4 and increase the plasma level of a number of drugs; for example, it can significantly enhance the anticoagulant effect of warfarin.6 Ginkgo biloba inhibits platelet function; its use with acetylsalicylic acid (ASA), other nonsteroidal antiinflammatory agents (NSAIDs), and clopedigrel, which also interfere with platelet aggregation, increases the risk of bleeding.6
+Components of grapefruit inhibit CYP450 isoenzyme 3A4 and increase the plasma level of a number of drugs; for example, it can significantly enhance the anticoagulant effect of warfarin.6 Ginkgo biloba inhibits platelet function; its use with acetylsalicylic acid (ASA), other nonsteroidal antiinflammatory agents (NSAIDs), and clopedigrel, which also interfere with platelet aggregation, increases the risk of bleeding.
 
 St. John’s wort induces the CYP 450 isoenzyme 3A4 and decreases the efficacy of many drugs, including some prescribed by oral healthcare providers, e.g., benzodiazepines and macrolides antibacterial agents.7 Large doses of vitamin C acidify the urine, inhibit the excretion of weak acids such as NSAIDs, acetaminophen, and tetracyclines (e.g., doxycycline and minocycline) and increase the plasma levels of these and other drugs.
