@@ -1,6 +1,6 @@
-# 06:03 PM | Monday | December 20 | 20/12/2021
+## 06:03 PM | Monday | December 20 | 20/12/2021
 
-## Some Logic
+### Some Logic
 
 we choose to do things, most of the time the choices are subconscious, in rare we know the outcomes and we still choose to go with it.
 
@@ -10,8 +10,15 @@ We are programmed to cry when we feel sad,to laugh when we feel happy and so on.
 
 Micro-expressions(events that lead to the micro expressions) lead to macro-emotions.
 
-## Change the example to its concept
+### Change the example to its concept
 
 I am not sure why, but it has to do with me actively trying to suppress the emotional side of me from surfacing.
 
 The other thing about trusting people, its like getting a car, its a lot of investment and honestly the choice has to be perfect. If anything goes wrong, we actually lose a lot of time and effort. If we made the wrong choice and have chosen a person who isn't right for us we have to live with that decision.
+
+## 12:56 AM | Sunday | December 26 | 26/12/2021
+
+### save-it
+
+- an extension that stores the link of the page into an md file and captures its name.
+- if the link is already saved it rejects it as a duplicate.
