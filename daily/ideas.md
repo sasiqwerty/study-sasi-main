@@ -22,3 +22,39 @@ The other thing about trusting people, its like getting a car, its a lot of inve
 
 - an extension that stores the link of the page into an md file and captures its name.
 - if the link is already saved it rejects it as a duplicate.
+
+## 12:23 PM | Thursday | December 30 | 30/12/2021
+
+### to lose weight i have to drink water and have just enough to do my work nothing more.
+
+- eating carbohydrates might not be the best idea as that leads to water retention.
+- if that is the case why is it bad
+- if we cant have enough water right away we need to drink more and we cant drink more as the stomach is full and that makes it hard to digest the already piling up carbs and that makes us hungry
+- if instead we start with water ?
+
+### is structure inherent to the universe?
+
+i think the question takes us in the wrong direction. to have structure is to agree that the world had an origin point, and if we do agree that the world does indeed have a common origin point, the resultant processes that lead to the world as we know it gave rise to the structure.
+
+- if there is a defined origin point and its indivisible and unique its easier to glean the structure of the cosmos
+- if the origin point is based on a state and its processes the primordial universe itself is harder to understand as we are dealing with time and its ever changing effects on things it exists in.
+- if the origin point is fractional
+
+## 05:59 PM | Saturday | January 1 | 01/01/2022
+
+- the body has a memory of everything we did as a pattern
+- as we change, we change the pattern; our memories are just elaborate cycles of the events happened to us and effects on the body.
+- the food we eat is the medicine
+- the food we eat and its kind defines us.
+- there are so many things that happen at any given time in the body. like particles moving and interacting. we cant decide what might happen at the individual level but can only affect at the process level. we cannot predict what might happen with certainty but with the known laws can predict the outcomes of events based on certain assumptions.
+- the reasons why most medicines fail is due this fact. we don't and cant take the whole human process into account and try to solve the problem.
+
+## 08:24 PM | Sunday | January 2 | 02/01/2022
+
+i don't think i wrote anything that day
+
+02:39 PM | Saturday | January 8 | 08/01/2022
+
+- there is a limit to the number of activities one can do in a day without mental degradation.
+- the limit is also determined by our mental acuity
+- what we call our resolve is probably based on a lot of things too

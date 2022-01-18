@@ -1,0 +1,333 @@
+.akap_bez_wciecia {
+    display: block;
+    font-family: DejaVuSerif;
+    font-size: 0.9em;
+    hyphens: auto;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-indent: 0
+    }
+.calibre {
+    font-size: 0.9em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre1 {
+    background: #fff;
+    display: block;
+    font-family: "Merriweather Sans", serif;
+    font-size: 0.9em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: left
+    }
+.calibre2 {
+    display: block;
+    font-family: DejaVuSerif;
+    font-size: 0.9em;
+    hyphens: auto;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-indent: 20px
+    }
+.calibre3 {
+    color: blue;
+    font-size: 0.9em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-decoration: none
+    }
+.calibre4 {
+    background: none;
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: 0;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: 0;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: 0;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: 0;
+    color: black;
+    display: block;
+    font-size: 0.9em;
+    font-style: italic;
+    font-variant: normal;
+    line-height: normal;
+    margin-bottom: 0.5cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.calibre5 {
+    background: none;
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: 0;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: 0;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: 0;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: 0;
+    color: grey;
+    display: block;
+    font-size: 0.9em;
+    line-height: normal;
+    margin-bottom: 0.5cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0
+    }
+.calibre6 {
+    font-family: DejaVuSerif-Italic;
+    font-size: 1em;
+    font-style: italic;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre7 {
+    display: block;
+    font-size: 0.9em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre8 {
+    background: none;
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: 0;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: 0;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: 0;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: 0;
+    color: #FFF;
+    display: none;
+    font-size: 0;
+    line-height: normal;
+    margin-bottom: 0.5cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.calibre9 {
+    display: block;
+    font-size: 0.9em;
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.czesc_numer {
+    display: block;
+    font-family: DejaVuSans-Bold;
+    font-size: 1.6em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 35px;
+    margin-bottom: 0;
+    margin-top: 60px;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+    text-indent: 20px
+    }
+.pagebreak {
+    display: block;
+    font-family: DejaVuSerif;
+    font-size: 0.9em;
+    hyphens: auto;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    page-break-after: always;
+    text-indent: 20px
+    }
+.rozdzial_numer_no_break {
+    display: block;
+    font-family: DejaVuSans-Bold;
+    font-size: 1.2em;
+    font-weight: bold;
+    hyphens: auto;
+    line-height: 35px;
+    margin-bottom: 20px;
+    margin-top: 60px;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+    text-indent: 20px
+    }
+.tytulatura_miejsce_rok {
+    display: block;
+    font-family: DejaVuSerif;
+    font-size: 0.9em;
+    hyphens: auto;
+    margin-bottom: 0;
+    margin-top: 60px;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+    text-indent: 20px
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "DejaVuSans";
+    font-style: normal;
+    font-weight: normal;
+    src: url(OEBPS/fonts/DejaVuSans.ttf)
+    }
+@font-face {
+    font-family: "DejaVuSans-Oblique";
+    font-style: italic;
+    font-weight: normal;
+    src: url(OEBPS/fonts/DejaVuSans-Oblique.ttf)
+    }
+@font-face {
+    font-family: "DejaVuSans-Bold";
+    font-style: normal;
+    font-weight: bold;
+    src: url(OEBPS/fonts/DejaVuSans-Bold.ttf)
+    }
+@font-face {
+    font-family: "DejaVuSans-BoldOblique";
+    font-style: italic;
+    font-weight: bold;
+    src: url(OEBPS/fonts/DejaVuSans-BoldOblique.ttf)
+    }
+@font-face {
+    font-family: "DejaVuSerif";
+    font-style: normal;
+    font-weight: normal;
+    src: url(OEBPS/fonts/DejaVuSerif.ttf)
+    }
+@font-face {
+    font-family: "DejaVuSerif-Italic";
+    font-style: italic;
+    font-weight: normal;
+    src: url(OEBPS/fonts/DejaVuSerif-Italic.ttf)
+    }
+@font-face {
+    font-family: "DejaVuSerif-Bold";
+    font-style: normal;
+    font-weight: bold;
+    src: url(OEBPS/fonts/DejaVuSerif-Bold.ttf)
+    }
+@font-face {
+    font-family: "DejaVuSerif-BoldItalic";
+    font-style: italic;
+    font-weight: bold;
+    src: url(OEBPS/fonts/DejaVuSerif-BoldItalic.ttf)
+    }
+@font-face {
+    font-family: "Merriweather Sans";
+    panose-1: 0 0 0 0 0 0 0 0 0 0;
+    src: url(fonts/Merriweather-Sans-Regular.ttf)
+    }
+@font-face {
+    font-family: "Merriweather Sans";
+    panose-1: 0 0 0 0 0 0 0 0 0 0;
+    src: url(fonts/Merriweather-Sans-Bold.ttf);
+    font-weight: bold
+    }
+@font-face {
+    font-family: "Merriweather Sans";
+    panose-1: 0 0 0 0 0 0 0 0 0 0;
+    src: url(fonts/Merriweather-Sans-Italic.ttf);
+    font-style: italic
+    }
+@font-face {
+    font-family: "Merriweather Sans";
+    panose-1: 0 0 0 0 0 0 0 0 0 0;
+    src: url(fonts/Merriweather-Sans-Bold-Italic.ttf);
+    font-weight: bold;
+    font-style: italic
+    }
+
