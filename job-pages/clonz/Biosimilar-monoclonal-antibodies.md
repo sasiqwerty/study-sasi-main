@@ -24,13 +24,10 @@ Not surprisingly, the EMA has issued, very recently, specific guidelines on bios
 
 According to the guideline , a first step is the evaluation of particular quality attributes with respect to binding and functional characteristics. Therefore, in vitro studies are required in which the biosimilar and the reference are compared to each other with respect to
 
-    binding to the target antigen,
-
-    binding to representative isoforms of the relevant three Fc gamma receptors (FcγRI, FcγRII, and FcγRIII), FcRn and complement (C1q),
-
-    Fab-associated functions (e.g., neutralization of a soluble ligand, receptor activation or blockade) and
-
-    Fc-associated functions (e.g., ADCC, CDC, complement activation).
+- binding to the target antigen,
+- binding to representative isoforms of the relevant three Fc gamma receptors (FcγRI, FcγRII, and FcγRIII), FcRn and complement (C1q),
+- Fab-associated functions (e.g., neutralization of a soluble ligand, receptor activation or blockade) and
+- Fc-associated functions (e.g., ADCC, CDC, complement activation).
 
 It is important to note that the guideline specifies that the functional assays should be designed to allow the detection of minute differences in the concentration–activity relationship between biosimilar and reference. In view of the fact that animal models may not be adequate, these extensive in vitro characterization assays ( target antigen, Fc-receptors, and cells all of human origin) are of crucial importance since they are usually more specific, more sensitive and more representative for the “human situation.” The guideline explicitly states that “If the comparability exercise using the above strategy indicates that the test mAb and the reference mAb cannot be considered biosimilar, it may be more appropriate to consider developing the product as a stand-alone” .
 
@@ -44,4 +41,9 @@ Whereas two biosimilars of infliximab are currently under evaluation at the Euro
 
 ## Expert opinion
 
-Biosimilar monoclonal antibodies constitute a unique class of biosimilars. MAs comprise multiple domains each contributing to the pharmacological and therapeutic properties of the molecule as well as to the safety profile. Stringent regulatory requirements specific for biosimilar monoclonal antibodies result from this scientific complexity. In the absence of any approved biosimilar monoclonal antibody and in the absence of available scientific evaluation reports of submitted applications, it is currently unclear if and how biosimilar MAs will penetrate in healthcare. Even though it might be expected that in the near future biosimilar MAs will be approved for marketing, some obstacles could hinder their fast and long-term use: i) In view of their complexity the development costs can be expected to be significantly higher compared to that of “regular” biosimilars. Consequently, price reductions compared to the reference may be very small; ii) biosimilar MAs are also expected to experience significant competition by next-generation MAs exhibiting improved properties, e.g., through glycoengineering ; iii) alternative antibody-based therapeutics such as bispecific MAs and Fc-linked fusion proteins, exhibiting improved therapeutic potential and improved pharmacodynamics may also compete with biosimilar MAs; and iv) other antibody formats currently under development such as nanobodies, produced in bacteria and thus expected to be much cheaper may well form an alternative for reducing costs in healthcare.
+Biosimilar monoclonal antibodies constitute a unique class of biosimilars. MAs comprise multiple domains each contributing to the pharmacological and therapeutic properties of the molecule as well as to the safety profile. Stringent regulatory requirements specific for biosimilar monoclonal antibodies result from this scientific complexity. In the absence of any approved biosimilar monoclonal antibody and in the absence of available scientific evaluation reports of submitted applications, it is currently unclear if and how biosimilar MAs will penetrate in healthcare. Even though it might be expected that in the near future biosimilar MAs will be approved for marketing, some obstacles could hinder their fast and long-term use:
+
+- In view of their complexity the development costs can be expected to be significantly higher compared to that of “regular” biosimilars. Consequently, price reductions compared to the reference may be very small;
+- biosimilar MAs are also expected to experience significant competition by next-generation MAs exhibiting improved properties, e.g., through glycoengineering ;
+- alternative antibody-based therapeutics such as bispecific MAs and Fc-linked fusion proteins, exhibiting improved therapeutic potential and improved pharmacodynamics may also compete with biosimilar MAs; and
+- other antibody formats currently under development such as nanobodies, produced in bacteria and thus expected to be much cheaper may well form an alternative for reducing costs in healthcare.
