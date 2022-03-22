@@ -21,4 +21,3 @@ Optical technology developed from the principle that dissolved oxygen quenches t
 - Magnitude domain measures the peak height of luminescence. Accuracy degrades over time as the sensor degrades due to photo-bleaching; frequent calibration is required for this method.
 - Time domain measures the decay rate of luminescence. Signal-to-noise ratio can limit the sensor range in this method.
 - Phase domain (phase detector) measures the phase difference based on the entire signal and reference wave forms across a population of pulses. This method delivers the highest accuracy over the widest operating range and is commonly used.
--
