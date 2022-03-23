@@ -12,6 +12,10 @@ Quenching refers to any process which decreases the fluorescence intensity of a 
 
 Quenching is made use of in optode sensors; for instance the quenching effect of oxygen on certain ruthenium complexes allows the measurement of oxygen saturation in solution. Quenching is the basis for Förster resonance energy transfer (FRET) assays. Quenching and dequenching upon interaction with a specific molecular biological target is the basis for activatable optical contrast agents for molecular imaging. Many dyes undergo self-quenching, which can decrease the brightness of protein-dye conjugates for fluorescence microscopy, or can be harnessed in sensors of proteolysis.
 
+[Optode](https://www.wikiwand.com/en/Optode)
+
+An optode requires three components to function: a chemical that responds to an analyte, a polymer to immobilise the chemical transducer and instrumentation (optical fibre, light source, detector and other electronics). Optodes usually have the polymer matrix coated onto the tip of an optical fibre, but in the case of evanescent wave optodes the polymer is coated on a section of fibre that has been unsheathed
+
 #### [Luminophore](https://www.wikiwand.com/en/Luminophore)
 
 A luminophore (sometimes shortened to lumophore) is an atom or functional group in a chemical compound that is responsible for its luminescent properties. Luminophores can be either organic or inorganic.
