@@ -4,3 +4,4 @@
 
 - gram stain
 - basics of cell membranes and their respective layers
+- mycoplasma
